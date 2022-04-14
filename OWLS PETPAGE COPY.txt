@@ -535,7 +535,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Armoury Background <strong>~</strong>Buyable</li>
 <li>Arrow Circlet and Wig <strong>~</strong>00 - 00</li>
 <li>Arrows of Happiness <strong>~</strong>00 - 00</li>
-<li>Artisans Holiday Backdrop <strong>~</strong>00 - 00</li>
+<li>Artisans Holiday Backdrop <strong>~</strong>1 - 2</li>
 <li>Artist Frock <strong>~</strong>00 - 00</li>
 <li>Artwork Display Garland <strong>~</strong>00 - 00</li>
 <li>Ash Blonde Wig <strong>~</strong>3 - 4</li>
@@ -555,7 +555,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Autographed T Shirt <strong>~</strong>00 - 00</li>
 <li>Autumn Baby Dress <strong>~</strong>2 - 3</li>
 <li>Autumn Back Porch Background <strong>~</strong>20 - 25</li>
-<li>Autumn Bouquet <strong>~</strong>00 - 00</li>
+<li>Autumn Bouquet <strong>~</strong>1 - 2</li>
 <li>Autumn Bridge Background <strong>~</strong>00 - 00</li>
 <li>Autumn Chain Link Infinity Scarf <strong>~</strong>00 - 00</li>
 <li>Autumn Faerie Cape <strong>~</strong>00 - 00</li>
@@ -606,9 +606,9 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Autumn Sunset Lake View Background <strong>~</strong>8 - 10</li>
 <li>Autumn Tiara <strong>~</strong>00 - 00</li>
 <li>Autumn Umbrella <strong>~</strong>00 - 00</li>
-<li>Autumn View Gazebo Background <strong>~</strong>00 - 00</li>
+<li>Autumn View Gazebo Background <strong>~</strong>1 - 2</li>
 <li>Autumn Wheelbarrow Trinket <strong>~</strong>00 - 00</li>
-<li>Autumn Windmill Background <strong>~</strong>00 - 00</li>
+<li>Autumn Windmill Background <strong>~</strong>1 - 2</li>
 <li>Autumn Windswept Wig <strong>~</strong>00 - 00</li>
 <li>Autumn Witch Wig <strong>~</strong>00 - 00</li>
 <li>Autumn Woodland Short Staff <strong>~</strong>00 - 00</li>
@@ -681,7 +681,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Baby Pink Contacts <strong>~</strong>1 - 2</li>
 <li>Baby Pink Ona Rattle <strong>~</strong>00 - 00</li>
 <li>Baby Plaid Sleeper with Bow Tie <strong>~</strong>Buyable</li>
-<li>Baby Playtime Overalls <strong>~</strong>00 - 00</li>
+<li>Baby Playtime Overalls <strong>~</strong>1 - 2</li>
 <li>Baby Polka Dot Dress <strong>~</strong>2 - 3</li>
 <li>Baby Portal Blast Gun <strong>~</strong>1 - 2</li>
 <li>Baby Puffy Autumn Leaf Vest <strong>~</strong>Buyable</li>
@@ -856,7 +856,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Beach Luau Background <strong>~</strong>00 - 00</li>
 <li>Beach Palm Hammock <strong>~</strong>00 - 00</li>
 <li>Beach Picnic Background <strong>~</strong>1 - 2</li>
-<li>Beach Resort Background <strong>~</strong>00 - 00</li>
+<li>Beach Resort Background <strong>~</strong>1 - 2</li>
 <li>Beach Sandals <strong>~</strong>1 - 2</li>
 <li>Beach Shell Fire Pit Foreground <strong>~</strong>00 - 00</li>
 <li>Beach Sign <strong>~</strong>1 - 2</li>
@@ -975,7 +975,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Bitter Striped Tights and Boots <strong>~</strong>00 - 00</li>
 <li>Black & Gold Ornate Shirt <strong>~</strong>00 - 00</li>
 <li>Black & Silver Altadorian Linens <strong>~</strong>00 - 00</li>
-<li>Black & White Candle Stick Foreground <strong>~</strong>00 - 00</li>
+<li>Black & White Candle Stick Foreground <strong>~</strong>1 - 2</li>
 <li>Black & White Striped Dress <strong>~</strong>00 - 00</li>
 <li>Black and Blue Crochet Shirt <strong>~</strong>00 - 00</li>
 <li>Black and Blue Wig <strong>~</strong>00 - 00</li>
@@ -1062,7 +1062,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Blonde Gladiator Wig <strong>~</strong>00 - 00</li>
 <li>Blonde Quiff Wig <strong>~</strong>00 - 00</li>
 <li>Blonde Tropical Flower Wig <strong>~</strong>00 - 00</li>
-<li>Blooming Cactus Foreground <strong>~</strong>00 - 00</li>
+<li>Blooming Cactus Foreground <strong>~</strong>1 - 2</li>
 <li>Blooming Floral Gown <strong>~</strong>00 - 00</li>
 <li>Blooming Flower Hearts <strong>~</strong>00 - 00</li>
 <li>Blooming Garden <strong>~</strong>4 - 5</li>
@@ -1208,7 +1208,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Breath of Fire <strong>~</strong>00 - 00</li>
 <li>Breathtaking Embroidered Dress <strong>~</strong>00 - 00</li>
 <li>Breezy Autumn Path Background <strong>~</strong>1 - 2</li>
-<li>Breezy Dots Dress <strong>~</strong>00 - 00</li>
+<li>Breezy Dots Dress <strong>~</strong>3</li>
 <li>Breezy Summer Dress <strong>~</strong>00 - 00</li>
 <li>Bridge to Nowhere Background <strong>~</strong>4 - 5</li>
 <li>Bright Bangle Scarf <strong>~</strong>00 - 00</li>
@@ -1347,7 +1347,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Bumbluz Light Wand <strong>~</strong>00 - 00</li>
 <li>Bunch of Sunflowers <strong>~</strong>00 - 00</li>
 <li>Bundle of Books <strong>~</strong>00 - 00</li>
-<li>Bundled Up Bunny Hoodie <strong>~</strong>00 - 00</li>
+<li>Bundled Up Bunny Hoodie <strong>~</strong>1 - 2</li>
 <li>Bundled Up Winter Scarf <strong>~</strong>00 - 00</li>
 <li>Bunny String Lights <strong>~</strong>6 - 8</li>
 <li>Burgundy Hood <strong>~</strong>00 - 00</li>
@@ -1543,9 +1543,9 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Casual Greatcoat <strong>~</strong>1 - 2</li>
 <li>Casual Luau Shirt <strong>~</strong>00 - 00</li>
 <li>Casual Mutant Trousers <strong>~</strong>Buyable</li>
-<li>Casual Rose Cardigan <strong>~</strong>00 - 00</li>
+<li>Casual Rose Cardigan <strong>~</strong>5 - 6</li>
 <li>Casual Shirt and Trousers <strong>~</strong>1 - 2</li>
-<li>Casual Summer Party Wig <strong>~</strong>00 - 00</li>
+<li>Casual Summer Party Wig <strong>~</strong>1 - 2</li>
 <li>Catacombs Treasure Room Background <strong>~</strong>00 - 00</li>
 <li>Caught in the Snow Wig <strong>~</strong>00 - 00</li>
 <li>Cauldron of Brew <strong>~</strong>00 - 00</li>
@@ -1561,7 +1561,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Celebratory Drápes Backdrop <strong>~</strong>00 - 00</li>
 <li>Celebratory Drenching <strong>~</strong>00 - 00</li>
 <li>Celestial Princess Gown <strong>~</strong>00 - 00</li>
-<li>Celestial Suit <strong>~</strong>00 - 00</li>
+<li>Celestial Suit <strong>~</strong>1 - 2</li>
 <li>Cemetery at Night Background <strong>~</strong>1 - 2</li>
 <li>Cemetery Steps Background <strong>~</strong>3 - 5</li>
 <li>Ceramic Light Show <strong>~</strong>00 - 00</li>
@@ -1788,7 +1788,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Clover Pinwheel Foreground <strong>~</strong>00 - 00</li>
 <li>Clover Shooting Cannon <strong>~</strong>00 - 00</li>
 <li>Clover Skirt Dress <strong>~</strong>Buyable</li>
-<li>Clover String Lights <strong>~</strong>00 - 00</li>
+<li>Clover String Lights <strong>~</strong>1 - 2</li>
 <li>Clover Wings <strong>~</strong>00 - 00</li>
 <li>Clown Face Paint <strong>~</strong>1 - 2</li>
 <li>Clutch with Butterflies <strong>~</strong>00 - 00</li>
@@ -1801,7 +1801,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Cobweb Banner <strong>~</strong>00 - 00</li>
 <li>Cocoa Shop Background <strong>~</strong>Buyable</li>
 <li>Coconut Drink Handheld <strong>~</strong>00 - 00</li>
-<li>Coffin Clutch <strong>~</strong>00 - 00</li>
+<li>Coffin Clutch <strong>~</strong>1 - 2</li>
 <li>Coffin of Spooks <strong>~</strong>00 - 00</li>
 <li>Cogs Togs Collectors Wig <strong>~</strong>00 - 00</li>
 <li>Cold Winter Night Background <strong>~</strong>2 - 3</li>
@@ -1960,11 +1960,11 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Corn Husk Wreath <strong>~</strong>00 - 00</li>
 <li>Corn Maze Background <strong>~</strong>00 - 00</li>
 <li>Corn on the Cob Costume <strong>~</strong>1 - 2</li>
-<li>Corridor 317B Background <strong>~</strong>00 - 00</li>
+<li>Corridor 317B Background <strong>~</strong>15 - 20</li>
 <li>Cosmic Balloons Garland <strong>~</strong>00 - 00</li>
 <li>Cosmic Cloud Face Paint <strong>~</strong>00 - 00</li>
 <li>Cosmic Holiday Tree <strong>~</strong>00 - 00</li>
-<li>Cosmic Ray Wig <strong>~</strong>00 - 00</li>
+<li>Cosmic Ray Wig <strong>~</strong>1 - 2</li>
 <li>Cosmic Sky Shirt <strong>~</strong>00 - 00</li>
 <li>Cosy Apple Skirt <strong>~</strong>00 - 00</li>
 <li>Cosy Autumn Front Porch Background <strong>~</strong>6 - 8</li>
@@ -2052,8 +2052,8 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Crochet Wings <strong>~</strong>00 - 00</li>
 <li>Crochet Winter Hat <strong>~</strong>00 - 00</li>
 <li>Crocheted Ear Muffs and Wig <strong>~</strong>4 - 6</li>
-<li>Crocheted Quiggle Cap <strong>~</strong>00 - 00</li>
-<li>Crocheted Quiggle Crossbody Bag <strong>~</strong>00 - 00</li>
+<li>Crocheted Quiggle Cap <strong>~</strong>1 - 2</li>
+<li>Crocheted Quiggle Crossbody Bag <strong>~</strong>2</li>
 <li>Crokabek Garland <strong>~</strong>20 - 25</li>
 <li>Crokabek Nest Background <strong>~</strong>00 - 00</li>
 <li>Cropped Auburn Locks <strong>~</strong>Buyable</li>
@@ -2089,11 +2089,11 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Crystalline Petpet <strong>~</strong>00 - 00</li>
 <li>Crystalline Shades <strong>~</strong>00 - 00</li>
 <li>Crystallized Rainbow Staff <strong>~</strong>00 - 00</li>
-<li>Cuffed Green Plaid Shorts <strong>~</strong>00 - 00</li>
+<li>Cuffed Green Plaid Shorts <strong>~</strong>1 - 2</li>
 <li>Cuffed Ripped Trousers <strong>~</strong>Buyable</li>
 <li>Cúmulus Wings <strong>~</strong>00 - 00</li>
 <li>Cupcake Boxing Gloves <strong>~</strong>00 - 00</li>
-<li>Cupcake Clip Wig <strong>~</strong>00 - 00</li>
+<li>Cupcake Clip Wig <strong>~</strong>2</li>
 <li>Cupcake Crown <strong>~</strong>00 - 00</li>
 <li>Cupcake Curtains <strong>~</strong>1 - 2</li>
 <li>Cupcake Earrings <strong>~</strong>00 - 00</li>
@@ -2142,7 +2142,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Cybunny Pyjamas <strong>~</strong>00 - 00</li>
 <li>Cybunny Scout Collectors Trousers and Boots <strong>~</strong>00 - 00</li>
 <li>Cybunny Themed PJ Set <strong>~</strong>LE Buyable with Bright Negg Dyeing Kit (650NC)</li>
-<li>Cylara Wig <strong>~</strong>00 - 00</li>
+<li>Cylara Wig <strong>~</strong>3</li>
 <li>Cyodrake Lunar Festival Cloak <strong>~</strong>00 - 00</li>
 <li>Cyodrake Temple Garden <strong>~</strong>13 - 15</li>
 
@@ -2230,7 +2230,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Darigan Wings <strong>~</strong>00 - 00</li>
 <li>Daring Sea Captain Coat <strong>~</strong>00 - 00</li>
 <li>Daring Sea Captain Hat <strong>~</strong>00 - 00</li>
-<li>Daring Sea Captain Ship Background <strong>~</strong>00 - 00</li>
+<li>Daring Sea Captain Ship Background <strong>~</strong>1 - 2</li>
 <li>Daring Sea Captain Shoes <strong>~</strong>00 - 00</li>
 <li>Daring Sea Captain Spyglass <strong>~</strong>00 - 00</li>
 <li>Daring Sea Captain Trousers <strong>~</strong>00 - 00</li>
@@ -2274,7 +2274,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Dark Mystical Book Foreground <strong>~</strong>1 - 2</li>
 <li>Dark Mystical Cape <strong>~</strong>1 - 2</li>
 <li>Dark Mystical Gown <strong>~</strong>00 - 00</li>
-<li>Dark Mystical Shirt <strong>~</strong>00 - 00</li>
+<li>Dark Mystical Shirt <strong>~</strong>1 - 2</li>
 <li>Dark Nova Handheld Plushie <strong>~</strong>00 - 00</li>
 <li>Dark Ombre Heart <strong>~</strong>00 - 00</li>
 <li>Dark Ombre Trousers <strong>~</strong>1 - 2</li>
@@ -2291,7 +2291,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Dark Prism Mask <strong>~</strong>00 - 00</li>
 <li>Dark Prism Mohawk <strong>~</strong>00 - 00</li>
 <li>Dark Prism Side Tree <strong>~</strong>00 - 00</li>
-<li>Dark Prismatic Flowers Foreground <strong>~</strong>00 - 00</li>
+<li>Dark Prismatic Flowers Foreground <strong>~</strong>1 - 2</li>
 <li>Dark Prismatic Flowers Garland <strong>~</strong>00 - 00</li>
 <li>Dark Ritual Background <strong>~</strong>00 - 00</li>
 <li>Dark Rolling Clouds <strong>~</strong>3 - 5</li>
@@ -2363,7 +2363,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Deadly Poison Bottle <strong>~</strong>2 - 3</li>
 <li>Deadly Vial <strong>~</strong>1 - 2</li>
 <li>Deal with it Glasses <strong>~</strong>00 - 00</li>
-<li>Deathly Union Dress <strong>~</strong>00 - 00</li>
+<li>Deathly Union Dress <strong>~</strong>2 - 3</li>
 <li>Deathly Union Fence <strong>~</strong>00 - 00</li>
 <li>Deathly Union Graveyard Background <strong>~</strong>00 - 00</li>
 <li>Deathly Union Roses <strong>~</strong>1 - 2</li>
@@ -2431,17 +2431,17 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Delicate Lace Parasol <strong>~</strong>Buyable</li>
 <li>Delicate Leaf String Lights <strong>~</strong>Buyable</li>
 <li>Delicate Pearl Headband Wig <strong>~</strong>00 - 00</li>
-<li>Delicate Pink Tulle Curtains <strong>~</strong>00 - 00</li>
+<li>Delicate Pink Tulle Curtains <strong>~</strong>1 - 2</li>
 <li>Delicate Pink Valentine Parasol <strong>~</strong>7 - 8</li>
 <li>Delicate Sandcastle <strong>~</strong>00 - 00</li>
 <li>Delicate Silver Mask <strong>~</strong>00 - 00</li>
 <li>Delicate Valentine Heart Background <strong>~</strong>00 - 00</li>
 <li>Delicate White Lace Wings <strong>~</strong>Buyable</li>
 <li>Delicate Wispy Cape <strong>~</strong>00 - 00</li>
-<li>Delicious Cake Dress <strong>~</strong>00 - 00</li>
+<li>Delicious Cake Dress <strong>~</strong>3 - 4</li>
 <li>Delightful Doglefox Purse <strong>~</strong>00 - 00</li>
 <li>Delightful Flower Throne Background <strong>~</strong>00 - 00</li>
-<li>Delightful Flowering Vines <strong>~</strong>00 - 00</li>
+<li>Delightful Flowering Vines <strong>~</strong>1 - 2</li>
 <li>Delightful Heart Lute <strong>~</strong>Untradeable NC found in Elite Boutique</li>
 <li>Delightful Mug of Hot Cocoa <strong>~</strong>00 - 00</li>
 <li>Delina Handheld Plushie <strong>~</strong>Buyable</li>
@@ -2553,10 +2553,10 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Dream Darigan Armour <strong>~</strong>1 - 2</li>
 <li>Dream Dark Faerie Wings <strong>~</strong>1 - 2</li>
 <li>Dream Deserted Fairground Background <strong>~</strong>00 - 00</li>
-<li>Dream Greenhouse Background <strong>~</strong>00 - 00</li>
+<li>Dream Greenhouse Background <strong>~</strong>1 - 2</li>
 <li>Dream Pirate Tricorne Hat <strong>~</strong>00 - 00</li>
 <li>Dream Portal Background <strong>~</strong>1 - 2</li>
-<li>Dream Potion Bottle <strong>~</strong>00 - 00</li>
+<li>Dream Potion Bottle <strong>~</strong>1 - 2</li>
 <li>Dream Sanctuary <strong>~</strong>00 - 00</li>
 <li>Dream Star Cloud Wig <strong>~</strong>00 - 00</li>
 <li>Dream Tree Tent <strong>~</strong>00 - 00</li>
@@ -2629,7 +2629,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Dyeworks Black: Flame Sword <strong>~</strong>00 - 00</li>
 <li>Dyeworks Black: Games Master Challenge 2010 Lulu Shirt <strong>~</strong>00 - 00</li>
 <li>Dyeworks Black: Games Master Challenge NC Challenge 2010 Lulu Wig <strong>~</strong>4 - 5</li>
-<li>Dyeworks Black: Golden Sea Star Wig <strong>~</strong>00 - 00</li>
+<li>Dyeworks Black: Golden Sea Star Wig <strong>~</strong>1 - 2</li>
 <li>Dyeworks Black: Holiday Angel Cape & Wig <strong>~</strong>1 - 2</li>
 <li>Dyeworks Black: Jewelled Silver Wings <strong>~</strong>2 - 3</li>
 <li>Dyeworks Black: Jumping Babaa Garland <strong>~</strong>00 - 00</li>
@@ -2646,8 +2646,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Dyeworks Black: Pink Mountain and Cloud Background <strong>~</strong>1 - 2</li>
 <li>Dyeworks Black: Playful Tousled Wig <strong>~</strong>1 - 2</li>
 <li>Dyeworks Black: Polka Dot Holiday Dress <strong>~</strong>8 - 10</li>
-<li>Dyeworks Black: Pretty Pink Wig <strong>~</strong>00 - 00</li>
-<li>Dyeworks Black: Pretty Pink Wig <strong>~</strong>00 - 00</li>
+<li>Dyeworks Black: Pretty Pink Wig <strong>~</strong>1 - 2</li>
 <li>Dyeworks Black: Radiant Glow <strong>~</strong>1 - 2</li>
 <li>Dyeworks Black: Rich Golden Eye Makeup <strong>~</strong>4 - 5</li>
 <li>Dyeworks Black: Sea Glass Chandelier <strong>~</strong>00 - 00</li>
@@ -2665,7 +2664,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Dyeworks Black: Windswept Wig and Hat <strong>~</strong>1 - 2</li>
 <li>Dyeworks Black: Winter Couture Wig <strong>~</strong>00 - 00</li>
 <li>Dyeworks Black: Wintery White Hood <strong>~</strong>00 - 00</li>
-<li>Dyeworks Blonde: Fancy Floral Tea Wig <strong>~</strong>00 - 00</li>
+<li>Dyeworks Blonde: Fancy Floral Tea Wig <strong>~</strong>1 - 2</li>
 <li>Dyeworks Blonde: Fishtail Braided Pigtail Wig <strong>~</strong>1 - 2</li>
 <li>Dyeworks Blonde: Limited Edition- Holiday String Lights Wig <strong>~</strong>1 - 2</li>
 <li>Dyeworks Blonde:Maraquan Flowing Fuchsia Wig <strong>~</strong>00 - 00</li>
@@ -2689,7 +2688,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Dyeworks Blue: Blonde Fishtail Side Braid <strong>~</strong>00 - 00</li>
 <li>Dyeworks Blue: Butterfly Shower <strong>~</strong>Permanent Dyeworks (Buyable) </li>
 <li>Dyeworks Blue: Cherry Blossom Silk Dress <strong>~</strong>00 - 00</li>
-<li>Dyeworks Blue: Cold Winter Night Background <strong>~</strong>00 - 00</li>
+<li>Dyeworks Blue: Cold Winter Night Background <strong>~</strong>1 - 2</li>
 <li>Dyeworks Blue: Cupcake Curtains <strong>~</strong>00 - 00</li>
 <li>Dyeworks Blue: Dark Battle Armour <strong>~</strong>Permanent Dyeworks (Buyable)</li>
 <li>Dyeworks Blue: Dark Enchanted Cape <strong>~</strong>Permanent Dyeworks (Buyable)</li>
@@ -2740,7 +2739,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Dyeworks Blue: Lovely Rose Cardigan <strong>~</strong>00 - 00</li>
 <li>Dyeworks Blue: MME2-S1: Mystical Rain Shower <strong>~</strong>1 - 2</li>
 <li>Dyeworks Blue: Magical Golden Markings <strong>~</strong>Permanent Dyeworks (Buyable)</li>
-<li>Dyeworks Blue: Maraquan Flowing Fuchsia Wig <strong>~</strong>00 - 00</li>
+<li>Dyeworks Blue: Maraquan Flowing Fuchsia Wig <strong>~</strong>1 - 2</li>
 <li>Dyeworks Blue: Maraquan Jeweled Foreground <strong>~</strong>1 - 2</li>
 <li>Dyeworks Blue: Maraquan Roamers Cape <strong>~</strong>00 - 00</li>
 <li>Dyeworks Blue: Maraquan Summer Cloak <strong>~</strong>00 - 00</li>
@@ -2764,19 +2763,19 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Dyeworks Blue: Singing Meepit Trio <strong>~</strong>00 - 00</li>
 <li>Dyeworks Blue: Snowy Cherry Blossom Side Tree <strong>~</strong>1 - 2</li>
 <li>Dyeworks Blue: Snowy Pine Cone Foreground <strong>~</strong>1 - 2</li>
-<li>Dyeworks Blue: Sparkling Red Holiday Dress <strong>~</strong>00 - 00</li>
+<li>Dyeworks Blue: Sparkling Red Holiday Dress <strong>~</strong>1 - 2</li>
 <li>Dyeworks Blue: Sparkling Silver Bouquet <strong>~</strong>00 - 00</li>
 <li>Dyeworks Blue: Sparkly Closed Eyes Makeup <strong>~</strong>1 - 2</li>
 <li>Dyeworks Blue: Specialty Shop Spectacles <strong>~</strong>1 - 2</li>
-<li>Dyeworks Blue: Spring Teal Sandals <strong>~</strong>00 - 00</li>
+<li>Dyeworks Blue: Spring Teal Sandals <strong>~</strong>1 - 2</li>
 <li>Dyeworks Blue: Starry Glowstone Path Background <strong>~</strong>1 - 2</li>
 <li>Dyeworks Blue: Starry Night Background <strong>~</strong>1 - 2</li>
 <li>Dyeworks Blue: Stars and Glitter Facepaint <strong>~</strong>00 - 00</li>
 <li>Dyeworks Blue: Striped Painted Negg Wings <strong>~</strong>00 - 00</li>
-<li>Dyeworks Blue: Stuffed Sea Shell Foreground <strong>~</strong>00 - 00</li>
+<li>Dyeworks Blue: Stuffed Sea Shell Foreground <strong>~</strong>1 - 2</li>
 <li>Dyeworks Blue: Stunning Moon View Background <strong>~</strong>1 - 2</li>
 <li>Dyeworks Blue: Sugar Icing Holiday Cookies Garland <strong>~</strong>00 - 00</li>
-<li>Dyeworks Blue: Summer Orange Root Blonde Wig <strong>~</strong>00 - 00</li>
+<li>Dyeworks Blue: Summer Orange Root Blonde Wig <strong>~</strong>1 - 2</li>
 <li>Dyeworks Blue: The Arena of Pink Background <strong>~</strong>00 - 00</li>
 <li>Dyeworks Blue: Tree of Hearts <strong>~</strong>1 - 2</li>
 <li>Dyeworks Blue: Underwater Easter Statue <strong>~</strong>00 - 00</li>
@@ -2894,16 +2893,16 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Dyeworks Green: Lavender Faerietale Dress <strong>~</strong>00 - 00</li>
 <li>Dyeworks Green: Lavender Tulle Dress <strong>~</strong>00 - 00</li>
 <li>Dyeworks Green: Lifeless Mutant Contacts <strong>~</strong>00 - 00</li>
-<li>Dyeworks Green: Lighted Spring Dress <strong>~</strong>00 - 00</li>
+<li>Dyeworks Green: Lighted Spring Dress <strong>~</strong>1 - 2</li>
 <li>Dyeworks Green: Lovely Rose Cardigan <strong>~</strong>00 - 00</li>
 <li>Dyeworks Green: Maraquan Jeweled Foreground <strong>~</strong>1 - 2</li>
-<li>Dyeworks Green: Maraquan Ocean Blue Contacts <strong>~</strong>00 - 00</li>
+<li>Dyeworks Green: Maraquan Ocean Blue Contacts <strong>~</strong>1 - 2</li>
 <li>Dyeworks Green: Maraquan Silver Markings <strong>~</strong>00 - 00</li>
 <li>Dyeworks Green: Maraquan White Beaded Gown <strong>~</strong>00 - 00</li>
 <li>Dyeworks Green: Maraquan Wig with Negg Accessory <strong>~</strong>00 - 00</li>
 <li>Dyeworks Green: Multicolour Wig <strong>~</strong>Permanent Dyeworks (Buyable)</li>
 <li>Dyeworks Green: Mutant Blue Glowing Contacts <strong>~</strong>00 - 00</li>
-<li>Dyeworks Green: Mutant Pink Ruffle Dress <strong>~</strong>00 - 00</li>
+<li>Dyeworks Green: Mutant Pink Ruffle Dress <strong>~</strong>1 - 2</li>
 <li>Dyeworks Green: Mutant Spiked Collar <strong>~</strong>1 - 2</li>
 <li>Dyeworks Green: Mutant Stylish Jet Black Wig <strong>~</strong>00 - 00</li>
 <li>Dyeworks Green: Nightmare Bristle Cape <strong>~</strong>00 - 00</li>
@@ -2948,7 +2947,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Dyeworks Grey: Valentine Window Foreground <strong>~</strong>1 - 2</li>
 <li>Dyeworks Lavendar: Light Damask Markings <strong>~</strong>2</li>
 <li>Dyeworks Lavendar: Snowy Cherry Blossom Side Tree <strong>~</strong>2 - 3</li>
-<li>Dyeworks Lavendar: Wonderland Gloves <strong>~</strong>00 - 00</li>
+<li>Dyeworks Lavendar: Wonderland Gloves <strong>~</strong>3</li>
 <li>Dyeworks Lavender: Baby in a Pumpkin <strong>~</strong>1 - 2</li>
 <li>Dyeworks Lavender: Beautiful Green Painting Background <strong>~</strong>1 - 2</li>
 <li>Dyeworks Lavender: Big Doll Eyes Contacts <strong>~</strong>1 - 2</li>
@@ -2972,7 +2971,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Dyeworks Mint: Pretty Pink Wig <strong>~</strong>00 - 00</li>
 <li>Dyeworks Orange & Lavender: Pastel Christmas Cookie Party Background <strong>~</strong>00 - 00</li>
 <li>Dyeworks Orange & Pink: Winter Lights Effects <strong>~</strong>1 - 2</li>
-<li>Dyeworks Orange: A Rolling Fog <strong>~</strong>00 - 00</li>
+<li>Dyeworks Orange: A Rolling Fog <strong>~</strong>1 - 2</li>
 <li>Dyeworks Orange: Amongst the Clouds Background <strong>~</strong>2</li>
 <li>Dyeworks Orange: Baby Holiday Ruffle Dress <strong>~</strong>00 - 00</li>
 <li>Dyeworks Orange: Baby Polka Dot Dress <strong>~</strong>1 - 2</li>
@@ -3059,7 +3058,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Dyeworks Pink: Handheld Moon Balloon <strong>~</strong>00 - 00</li>
 <li>Dyeworks Pink: Handheld Pastel Candy Cane <strong>~</strong>1 - 2</li>
 <li>Dyeworks Pink: Holiday Angel Cape & Wig <strong>~</strong>1 - 2</li>
-<li>Dyeworks Pink: Iridescent Mermaid Tail <strong>~</strong>00 - 00</li>
+<li>Dyeworks Pink: Iridescent Mermaid Tail <strong>~</strong>1 - 2</li>
 <li>Dyeworks Pink: Isca Wig <strong>~</strong>Permanent Dyeworks (Buyable)</li>
 <li>Dyeworks Pink: Jumping Babaa Garland <strong>~</strong>1 - 2</li>
 <li>Dyeworks Pink: Lace Curtain Garland <strong>~</strong>00 - 00</li>
@@ -3131,11 +3130,11 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Dyeworks Purple: Cherry Blossom Garland <strong>~</strong>4 - 6</li>
 <li>Dyeworks Purple: Cloak of the Night Sky <strong>~</strong>3 - 5</li>
 <li>Dyeworks Purple: Cloud Castle Background <strong>~</strong>2 - 3</li>
-<li>Dyeworks Purple: Cupcake Curtains <strong>~</strong>00 - 00</li>
+<li>Dyeworks Purple: Cupcake Curtains <strong>~</strong>1 - 2</li>
 <li>Dyeworks Purple: Cyodrake Temple Garden <strong>~</strong>1 - 2</li>
 <li>Dyeworks Purple: Dark Enchanted Cape <strong>~</strong>Permanent Dyeworks (Buyable)</li>
 <li>Dyeworks Purple: Dark Lace Dress <strong>~</strong>00 - 00</li>
-<li>Dyeworks Purple: Dark Winter Wig and Beanie <strong>~</strong>00 - 00</li>
+<li>Dyeworks Purple: Dark Winter Wig and Beanie <strong>~</strong>1 - 2</li>
 <li>Dyeworks Purple: Darkness Attacks <strong>~</strong>1 - 2</li>
 <li>Dyeworks Purple: Deadly Beauty Dress <strong>~</strong>1 - 2</li>
 <li>Dyeworks Purple: Deadly Beauty Rose <strong>~</strong>00 - 00</li>
@@ -3170,7 +3169,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Dyeworks Purple: Maraquan Ocean Blue Contacts <strong>~</strong>00 - 00</li>
 <li>Dyeworks Purple: Maraquan Silver Markings <strong>~</strong>00 - 00</li>
 <li>Dyeworks Purple: Maraquan Summer Cloak <strong>~</strong>00 - 00</li>
-<li>Dyeworks Purple: Maraquan Wig with Negg Accessory <strong>~</strong>00 - 00</li>
+<li>Dyeworks Purple: Maraquan Wig with Negg Accessory <strong>~</strong>1 - 2</li>
 <li>Dyeworks Purple: Mutant Gothic Embroidered Shirt <strong>~</strong>00 - 00</li>
 <li>Dyeworks Purple: Mutant Spiked Collar <strong>~</strong>00 - 00</li>
 <li>Dyeworks Purple: Mutant Yellow Tulips Bouquet <strong>~</strong>1 - 2</li>
@@ -3189,7 +3188,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Dyeworks Purple: Ruby Carolling Dress <strong>~</strong>00 - 00</li>
 <li>Dyeworks Purple: Scattered Light Shower <strong>~</strong>1 - 2</li>
 <li>Dyeworks Purple: Sea Sparkles Maraquan Makeup <strong>~</strong>1 - 2</li>
-<li>Dyeworks Purple: Seashell Throne <strong>~</strong>00 - 00</li>
+<li>Dyeworks Purple: Seashell Throne <strong>~</strong>1 - 2</li>
 <li>Dyeworks Purple: Shamrock Vine Arbour <strong>~</strong>1 - 2</li>
 <li>Dyeworks Purple: Side Swept Blond Wig <strong>~</strong>00 - 00</li>
 <li>Dyeworks Purple: Silver and Scarlet Ombre Wig <strong>~</strong>00 - 00</li>
@@ -3233,7 +3232,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Dyeworks Red: Elegant Holiday Tree Dress <strong>~</strong>00 - 00</li>
 <li>Dyeworks Red: Enchanting Hearts Front Porch Background <strong>~</strong>1 - 2</li>
 <li>Dyeworks Red: Extra Plaid Scarf <strong>~</strong>1 - 2</li>
-<li>Dyeworks Red: Fall Mutant Flannel <strong>~</strong>00 - 00</li>
+<li>Dyeworks Red: Fall Mutant Flannel <strong>~</strong>1 - 2</li>
 <li>Dyeworks Red: Fancy Floral Tea Wig <strong>~</strong>00 - 00</li>
 <li>Dyeworks Red: Flame Sword <strong>~</strong>00 - 00</li>
 <li>Dyeworks Red: Golden Ball Gown <strong>~</strong>00 - 00</li>
@@ -3254,7 +3253,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Dyeworks Red: Mutant Gothic Embroidered Shirt <strong>~</strong>00 - 00</li>
 <li>Dyeworks Red: Mutant Negg Flower Wig <strong>~</strong>00 - 00</li>
 <li>Dyeworks Red: Mutant Stylish Jet Black Wig <strong>~</strong>00 - 00</li>
-<li>Dyeworks Red: Nightmare Bristle Cape <strong>~</strong>00 - 00</li>
+<li>Dyeworks Red: Nightmare Bristle Cape <strong>~</strong>1 - 2</li>
 <li>Dyeworks Red: Pastel Pink Chiffon Skirt <strong>~</strong>00 - 00</li>
 <li>Dyeworks Red: Pirate Knots Shirt <strong>~</strong>1 - 2</li>
 <li>Dyeworks Red: Polka Dot Holiday Dress <strong>~</strong>8 - 12</li>
@@ -3262,7 +3261,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Dyeworks Red: Radiant Sunflower Arbour <strong>~</strong>00 - 00</li>
 <li>Dyeworks Red: Radiant Wig and Crown <strong>~</strong>00 - 00</li>
 <li>Dyeworks Red Radioactive Mutant Markings <strong>~</strong>00 - 00</li>
-<li>Dyeworks Red: Rose Gold Vases with Flowers <strong>~</strong>00 - 00</li>
+<li>Dyeworks Red: Rose Gold Vases with Flowers <strong>~</strong>1 - 2</li>
 <li>Dyeworks Red: Shimmery Seashell Dress <strong>~</strong>00 - 00</li>
 <li>Dyeworks Red: Side Swept Blond Wig <strong>~</strong>1 - 2</li>
 <li>Dyeworks Red: Snowfall Long Hair <strong>~</strong>1 - 2</li>
@@ -3285,7 +3284,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Dyeworks Silver: Cloud Staff <strong>~</strong>00 - 00</li>
 <li>Dyeworks Silver: Cold Winter Night Background <strong>~</strong>1 - 2</li>
 <li>Dyeworks Silver: Games Master Cape <strong>~</strong>00 - 00</li>
-<li>Dyeworks Silver: Garden Tea Parasol <strong>~</strong>00 - 00</li>
+<li>Dyeworks Silver: Garden Tea Parasol <strong>~</strong>1 - 2</li>
 <li>Dyeworks Silver: Golden Ball Gown <strong>~</strong>00 - 00</li>
 <li>Dyeworks Silver: Golden Scattered Light Garland <strong>~</strong>3</li>
 <li>Dyeworks Silver: Golden Shimmer Cape <strong>~</strong>5 - 6</li>
@@ -3360,7 +3359,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Dyeworks Yellow: Braided Holiday Wig <strong>~</strong>00 - 00</li>
 <li>Dyeworks Yellow: Branch of Singing Weewoos Garland <strong>~</strong>1 - 2</li>
 <li>Dyeworks Yellow: Cherry Blossom Garland <strong>~</strong>2 - 3</li>
-<li>Dyeworks Yellow: Cloud Castle Background <strong>~</strong>00 - 00</li>
+<li>Dyeworks Yellow: Cloud Castle Background <strong>~</strong>1 - 2</li>
 <li>Dyeworks Yellow: Curled Updo Wig <strong>~</strong>00 - 00</li>
 <li>Dyeworks Yellow: Curly Valentine Wig <strong>~</strong>00 - 00</li>
 <li>Dyeworks Yellow: Dreary Holiday Garland <strong>~</strong>00 - 00</li>
@@ -3372,7 +3371,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Dyeworks Yellow: Fuzzy Autumn Hat and Wig <strong>~</strong>1 - 2</li>
 <li>Dyeworks Yellow: Glass Rose Staff <strong>~</strong>Permanent Dyeworks (Buyable)</li>
 <li>Dyeworks Yellow: Handheld Pastel Candy Cane <strong>~</strong>00 - 00</li>
-<li>Dyeworks Yellow: Healing Springs Foreground <strong>~</strong>00 - 00</li>
+<li>Dyeworks Yellow: Healing Springs Foreground <strong>~</strong>1 - 2</li>
 <li>Dyeworks Yellow: Iridescent Mermaid Tail <strong>~</strong>00 - 00</li>
 <li>Dyeworks Yellow: Jars of Magic Foreground <strong>~</strong>1 - 2</li>
 <li>Dyeworks Yellow: Lavender Faerietale Dress <strong>~</strong>00 - 00</li>
@@ -3408,7 +3407,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Easter Negg Glasses <strong>~</strong>00 - 00</li>
 <li>Easter Negg String Lights <strong>~</strong>00 - 00</li>
 <li>Easter Negg Thought Bubble <strong>~</strong>00 - 00</li>
-<li>Easter Tulip Bouquet <strong>~</strong>00 - 00</li>
+<li>Easter Tulip Bouquet <strong>~</strong>1 - 2</li>
 <li>Ebony Forest Wig <strong>~</strong>00 - 00</li>
 <li>Edmund Wig <strong>~</strong>00 - 00</li>
 <li>Edolies Decorated House Background <strong>~</strong>00 - 00</li>
@@ -3541,7 +3540,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Enchanting Water Glade Background <strong>~</strong>1 - 2</li>
 <li>Enchanting Wind Chime <strong>~</strong>00 - 00</li>
 <li>End of Battle Background <strong>~</strong>00 - 00</li>
-<li>End of the Rainbow Beam <strong>~</strong>00 - 00</li>
+<li>End of the Rainbow Beam <strong>~</strong>2 - 3</li>
 <li>Enter If You Dare Sign <strong>~</strong>00 - 00</li>
 <li>Enter the Battle Background <strong>~</strong>4 - 6</li>
 <li>Enter the Garden Background <strong>~</strong>3 - 4</li>
@@ -3602,7 +3601,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Extra Soft Crochet Boots <strong>~</strong>Buyable in KQ Token</li>
 <li>Extra Special Gaming Blankie <strong>~</strong>00 - 00</li>
 <li>Extravagant Birthday Cake <strong>~</strong>00 - 00</li>
-<li>Extravagant Birthday Stage <strong>~</strong>00 - 00</li>
+<li>Extravagant Birthday Stage <strong>~</strong>1 - 2</li>
 <li>Extravagant Christmas Abode <strong>~</strong>00 - 00</li>
 <li>Extravagant Diamond Ring <strong>~</strong>00 - 00</li>
 <li>Extravagant Silver Gown <strong>~</strong>1 - 2</li>
@@ -3626,7 +3625,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Fabulous Refreshment Cart <strong>~</strong>00 - 00</li>
 <li>Face Full of Sweat Droplets <strong>~</strong>00 - 00</li>
 <li>Face Mask with Cucúmbers <strong>~</strong>00 - 00</li>
-<li>Faellie Flower Garland <strong>~</strong>00 - 00</li>
+<li>Faellie Flower Garland <strong>~</strong>1 - 2</li>
 <li>Faellie Slippers <strong>~</strong>00 - 00</li>
 <li>Faerie Bow and Arrow <strong>~</strong>00 - 00</li>
 <li>Faerie Bubble Earrings <strong>~</strong>00 - 00</li>
@@ -3863,7 +3862,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Festive Green Gloves <strong>~</strong>00 - 00</li>
 <li>Festive Holiday Hat & Wig <strong>~</strong>00 - 00</li>
 <li>Festive Holiday Lamp <strong>~</strong>00 - 00</li>
-<li>Festive Holiday Mug <strong>~</strong>00 - 00</li>
+<li>Festive Holiday Mug <strong>~</strong>3</li>
 <li>Festive Holiday Tutu <strong>~</strong>00 - 00</li>
 <li>Festive Holiday Wig <strong>~</strong>00 - 00</li>
 <li>Festive Holly Fortress Background <strong>~</strong>00 - 00</li>
@@ -3920,7 +3919,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Fighting Top and Tights <strong>~</strong>00 - 00</li>
 <li>Figure Skating Cuff Bracelet <strong>~</strong>00 - 00</li>
 <li>Figure Skating Dress <strong>~</strong>00 - 00</li>
-<li>Figure Skating Rose Shower <strong>~</strong>00 - 00</li>
+<li>Figure Skating Rose Shower <strong>~</strong>1 - 2</li>
 <li>Figure Skating Skates and Tights <strong>~</strong>00 - 00</li>
 <li>Figure Skating Wig <strong>~</strong>00 - 00</li>
 <li>Filigree Carousel Negg <strong>~</strong>00 - 00</li>
@@ -4075,7 +4074,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Flower Bud Vase Foreground <strong>~</strong>00 - 00</li>
 <li>Flower Camouflage Facepaint <strong>~</strong>00 - 00</li>
 <li>Flower Candle Holder Foreground <strong>~</strong>00 - 00</li>
-<li>Flower Caplet <strong>~</strong>00 - 00</li>
+<li>Flower Caplet <strong>~</strong>1 - 2</li>
 <li>Flower Cart <strong>~</strong>00 - 00</li>
 <li>Flower Chain Chandelier <strong>~</strong>00 - 00</li>
 <li>Flower Chandelier <strong>~</strong>00 - 00</li>
@@ -4175,7 +4174,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Flowy Valentine Ribbons <strong>~</strong>00 - 00</li>
 <li>Flowy Wig of a Champion <strong>~</strong>00 - 00</li>
 <li>Fluffy Cloud Dress <strong>~</strong>1 - 2</li>
-<li>Fluffy Cloud Wings <strong>~</strong>00 - 00</li>
+<li>Fluffy Cloud Wings <strong>~</strong>1 - 2</li>
 <li>Fluffy Feather Pillow <strong>~</strong>00 - 00</li>
 <li>Fluffy Pink Bedroom Background <strong>~</strong>5 - 6</li>
 <li>Fluffy Purple Tutu and Tights <strong>~</strong>00 - 00</li>
@@ -4203,7 +4202,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Forest Green Peacoat <strong>~</strong>1 - 2</li>
 <li>Forest Huntress Bow and Arrows <strong>~</strong>00 - 00</li>
 <li>Forest Huntress Dress <strong>~</strong>00 - 00</li>
-<li>Forest Huntress Wig <strong>~</strong>00 - 00</li>
+<li>Forest Huntress Wig <strong>~</strong>1 - 2</li>
 <li>Forest of Love Background <strong>~</strong>00 - 00</li>
 <li>Forest Wildling Makeup <strong>~</strong>1 - 2</li>
 <li>Forgotten Altador Ruin Background <strong>~</strong>00 - 00</li>
@@ -4271,7 +4270,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Frosted Web Garland <strong>~</strong>00 - 00</li>
 <li>Frosty Body Paint <strong>~</strong>3 - 5</li>
 <li>Frosty Cold Breath <strong>~</strong>3 - 5</li>
-<li>Frosty Eye Makeup <strong>~</strong>00 - 00</li>
+<li>Frosty Eye Makeup <strong>~</strong>1 - 2</li>
 <li>Frosty Eyes Contacts <strong>~</strong>00 - 00</li>
 <li>Frosty Fir Tree Dress <strong>~</strong>00 - 00</li>
 <li>Frosty Leafpile Foreground <strong>~</strong>00 - 00</li>
@@ -4280,7 +4279,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Frozen Facepaint <strong>~</strong>00 - 00</li>
 <li>Frozen Flowers Foreground <strong>~</strong>1 - 2</li>
 <li>Frozen Fountain <strong>~</strong>00 - 00</li>
-<li>Frozen Fractals Foreground <strong>~</strong>00 - 00</li>
+<li>Frozen Fractals Foreground <strong>~</strong>1 - 2</li>
 <li>Frozen Glade Background <strong>~</strong>00 - 00</li>
 <li>Frozen Gothic Columns Foreground <strong>~</strong>00 - 00</li>
 <li>Frozen in Ice Filter <strong>~</strong>1 - 2</li>
@@ -4686,7 +4685,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Golden Leaves Necklace <strong>~</strong>00 - 00</li>
 <li>Golden Light Show Background <strong>~</strong>8 - 10</li>
 <li>Golden Light Shower <strong>~</strong>00 - 00</li>
-<li>Golden Nutcrácker Gloves <strong>~</strong>00 - 00</li>
+<li>Golden Nutcrácker Gloves <strong>~</strong>10 - 15</li>
 <li>Golden Ombre Wig <strong>~</strong>2 - 3</li>
 <li>Golden Orb Lights <strong>~</strong>35 - 40</li>
 <li>Golden Ornate Head Piece <strong>~</strong>1 - 2</li>
@@ -4718,8 +4717,8 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Golden Tuxedo <strong>~</strong>1 - 2</li>
 <li>Golden Underwater Wig <strong>~</strong>Buyable</li>
 <li>Golden Vines Garland <strong>~</strong>Buyable in KQ Token</li>
-<li>Golden Wall Hanging Decor <strong>~</strong>00 - 00</li>
-<li>Golden Wig <strong>~</strong>00 - 00</li>
+<li>Golden Wall Hanging Decor <strong>~</strong>1 - 2</li>
+<li>Golden Wig <strong>~</strong>1 - 2</li>
 <li>Golden Winding Necklace <strong>~</strong>00 - 00</li>
 <li>Golden Woodland Staff <strong>~</strong>8 - 10</li>
 <li>Golden Yooyu Locket <strong>~</strong>00 - 00</li>
@@ -4733,8 +4732,8 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Goparokko Yurble Collectors Mask <strong>~</strong>00 - 00</li>
 <li>Gorgeous Ball Gown <strong>~</strong>00 - 00</li>
 <li>Gorgeous Chestnut Updo Wig <strong>~</strong>00 - 00</li>
-<li>Gorgeous Green Gown <strong>~</strong>00 - 00</li>
-<li>Gorgeous Oceanside Cliffs <strong>~</strong>00 - 00</li>
+<li>Gorgeous Green Gown <strong>~</strong>1 - 2</li>
+<li>Gorgeous Oceanside Cliffs <strong>~</strong>1 - 2</li>
 <li>Gorgeous Sequin Springtime Table <strong>~</strong>00 - 00</li>
 <li>Gorgeous Spring Garden Background <strong>~</strong>00 - 00</li>
 <li>Gorgeous Summertime Dress <strong>~</strong>00 - 00</li>
@@ -4743,7 +4742,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Got To Smile Thought Bubble <strong>~</strong>00 - 00</li>
 <li>Goth Girl Dress <strong>~</strong>00 - 00</li>
 <li>Gothic Black Rose Bouquet <strong>~</strong>00 - 00</li>
-<li>Gothic Bone Chest Piece <strong>~</strong>00 - 00</li>
+<li>Gothic Bone Chest Piece <strong>~</strong>1 - 2</li>
 <li>Gothic Buckle Shirt <strong>~</strong>00 - 00</li>
 <li>Gothic Candy Cane Staff <strong>~</strong>00 - 00</li>
 <li>Gothic Cherub Wings <strong>~</strong>00 - 00</li>
@@ -4753,7 +4752,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Gothic Dress Shirt <strong>~</strong>00 - 00</li>
 <li>Gothic Floor Candles <strong>~</strong>00 - 00</li>
 <li>Gothic Flower Skirt <strong>~</strong>00 - 00</li>
-<li>Gothic Flower Wreath Wig <strong>~</strong>00 - 00</li>
+<li>Gothic Flower Wreath Wig <strong>~</strong>2</li>
 <li>Gothic Garden Background <strong>~</strong>00 - 00</li>
 <li>Gothic Get Up <strong>~</strong>1 - 2</li>
 <li>Gothic Heart Valentine Garland <strong>~</strong>4</li>
@@ -4781,7 +4780,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Gothic Red Rose Necklace <strong>~</strong>2 - 3</li>
 <li>Gothic Red Skirt <strong>~</strong>00 - 00</li>
 <li>Gothic Rose Shrug <strong>~</strong>00 - 00</li>
-<li>Gothic School Girl Dress <strong>~</strong>00 - 00</li>
+<li>Gothic School Girl Dress <strong>~</strong>1 - 2</li>
 <li>Gothic School Girl Satchel <strong>~</strong>00 - 00</li>
 <li>Gothic School Girl Tights and Boots <strong>~</strong>00 - 00</li>
 <li>Gothic School Girl Wig <strong>~</strong>00 - 00</li>
@@ -4790,13 +4789,13 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Gothic Snowbunny Ears Headband <strong>~</strong>10 - 12</li>
 <li>Gothic Snowbunny Handheld Plushie <strong>~</strong>00 - 00</li>
 <li>Gothic Snowflake Shower <strong>~</strong>00 - 00</li>
-<li>Gothic Spring Picnic Background <strong>~</strong>00 - 00</li>
+<li>Gothic Spring Picnic Background <strong>~</strong>10 - 15</li>
 <li>Gothic Star Wings <strong>~</strong>00 - 00</li>
 <li>Gothic Tiara <strong>~</strong>00 - 00</li>
 <li>Gothic Updo Wig <strong>~</strong>00 - 00</li>
 <li>Gothic Valentine Dress <strong>~</strong>1 - 2</li>
 <li>Gothic Vine Face Paint <strong>~</strong>Buyable</li>
-<li>Gothic White Holly Wig <strong>~</strong>00 - 00</li>
+<li>Gothic White Holly Wig <strong>~</strong>5</li>
 <li>Gothic Winter Wig <strong>~</strong>1 - 2</li>
 <li>Gothy Winter Wig <strong>~</strong>00 - 00</li>
 <li>Gourd String Lights <strong>~</strong>00 - 00</li>
@@ -4817,7 +4816,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Grand Winter Wings <strong>~</strong>00 - 00</li>
 <li>Grandiose Candle Fixtures <strong>~</strong>1 - 2</li>
 <li>Grápefruit Neckace <strong>~</strong>00 - 00</li>
-<li>Grass Foreground <strong>~</strong>00 - 00</li>
+<li>Grass Foreground <strong>~</strong>10 - 15</li>
 <li>Grassy Gazebo <strong>~</strong>00 - 00</li>
 <li>Grassy Petpets Foreground <strong>~</strong>00 - 00</li>
 <li>Graveyard Fog <strong>~</strong>3</li>
@@ -4859,7 +4858,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Green Scallop Evening Dress <strong>~</strong>00 - 00</li>
 <li>Green Shamrock Apron <strong>~</strong>00 - 00</li>
 <li>Green Shamrock Cardigan <strong>~</strong>00 - 00</li>
-<li>Green Sleeve Graphic Tee <strong>~</strong>00 - 00</li>
+<li>Green Sleeve Graphic Tee <strong>~</strong>1 - 2</li>
 <li>Green Sparkle Trousers <strong>~</strong>00 - 00</li>
 <li>Green Spring Romper <strong>~</strong>00 - 00</li>
 <li>Green Stars Shower <strong>~</strong>00 - 00</li>
@@ -4950,7 +4949,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Handheld Green Spardel Plushie <strong>~</strong>7 - 10</li>
 <li>Handheld Grundo Plushie of Prosperity <strong>~</strong>00 - 00</li>
 <li>Handheld Heart Sword <strong>~</strong>1 - 2</li>
-<li>Handheld Holiday Frappe <strong>~</strong>00 - 00</li>
+<li>Handheld Holiday Frappe <strong>~</strong>1 - 2</li>
 <li>Handheld Iced Berry Bouquet <strong>~</strong>00 - 00</li>
 <li>Handheld Iced Gingerbread Cookie <strong>~</strong>00 - 00</li>
 <li>Handheld Jar of Flowers <strong>~</strong>00 - 00</li>
@@ -5019,6 +5018,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Hannahs Collectors Dress <strong>~</strong>00 - 00</li>
 <li>Hannahs Dressing Room Background <strong>~</strong>00 - 00</li>
 <li>Hansos Collectors Wig <strong>~</strong>00 - 00</li>
+<li>Happy Daisy Overalls <strong>~</strong>00 - 00</li>
 <li>Happy Holidays Sleeping Cap <strong>~</strong>00 - 00</li>
 <li>Happy Holidays Wrought Iron Fence <strong>~</strong>00 - 00</li>
 <li>Happy New Year Clock Background <strong>~</strong>00 - 00</li>
@@ -5026,7 +5026,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>HardtoTame Hair <strong>~</strong>00 - 00</li>
 <li>Harp of the Emerald Eyrie <strong>~</strong>00 - 00</li>
 <li>Harvest Apple Foreground <strong>~</strong>00 - 00</li>
-<li>Harvest Celebration Table <strong>~</strong>00 - 00</li>
+<li>Harvest Celebration Table <strong>~</strong>1 - 2</li>
 <li>Harvest Feast Background <strong>~</strong>00 - 00</li>
 <li>Harvest Feast Foreground <strong>~</strong>1 - 2</li>
 <li>Harvest Frame <strong>~</strong>1 - 2</li>
@@ -5037,7 +5037,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Haunted Ballroom Background <strong>~</strong>00 - 00</li>
 <li>Haunted Black Makeup <strong>~</strong>2</li>
 <li>Haunted Butterfly Necklace <strong>~</strong>00 - 00</li>
-<li>Haunted Circus Background <strong>~</strong>00 - 00</li>
+<li>Haunted Circus Background <strong>~</strong>1 - 2</li>
 <li>Haunted Crystal Wanderer <strong>~</strong>00 - 00</li>
 <li>Haunted Dining Room Background <strong>~</strong>1 - 2</li>
 <li>Haunted Faire Background <strong>~</strong>1 - 2</li>
@@ -5149,7 +5149,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Heartstrings Harp <strong>~</strong>00 - 00</li>
 <li>Hearty Bunch of Balloons <strong>~</strong>00 - 00</li>
 <li>Heavy Snowfall Shower <strong>~</strong>00 - 00</li>
-<li>Heister Cape <strong>~</strong>00 - 00</li>
+<li>Heister Cape <strong>~</strong>1 - 2</li>
 <li>Heister Eye Mask <strong>~</strong>00 - 00</li>
 <li>Helpful Abominable Snowball <strong>~</strong>00 - 00</li>
 <li>Helpful Cleaning Robot Kiko <strong>~</strong>00 - 00</li>
@@ -5168,7 +5168,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Hidden Chambers Background <strong>~</strong>00 - 00</li>
 <li>Hidden Forest Background <strong>~</strong>00 - 00</li>
 <li>Hidden Gadget Jacket <strong>~</strong>00 - 00</li>
-<li>Hidden Garden Door Background <strong>~</strong>00 - 00</li>
+<li>Hidden Garden Door Background <strong>~</strong>1 - 2</li>
 <li>Hidden Library Corner Background <strong>~</strong>Buyable</li>
 <li>Hidden Tower Background <strong>~</strong>00 - 00</li>
 <li>Hidden Vine Path Foreground <strong>~</strong>5 - 6</li>
@@ -5277,7 +5277,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Holiday Tuxedo Top <strong>~</strong>00 - 00</li>
 <li>Holiday Window Display Foreground <strong>~</strong>00 - 00</li>
 <li>Holiday Windowsill Foreground <strong>~</strong>00 - 00</li>
-<li>Holidays by the Fireplace Background <strong>~</strong>00 - 00</li>
+<li>Holidays by the Fireplace Background <strong>~</strong>3 - 4</li>
 <li>Hollowed Wood Planter Foreground <strong>~</strong>00 - 00</li>
 <li>Holly and Vine Wig <strong>~</strong>00 - 00</li>
 <li>Holly Face Paint <strong>~</strong>00 - 00</li>
@@ -5425,7 +5425,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Inside the NC Mall <strong>~</strong>2 - 4</li>
 <li>Interstellar Dress <strong>~</strong>2</li>
 <li>Into the Glittering Forest Background <strong>~</strong>2 - 3</li>
-<li>Into the Woods on Lutari Island <strong>~</strong>00 - 00</li>
+<li>Into the Woods on Lutari Island <strong>~</strong>1 - 2</li>
 <li>Intricate Gold Markings Suit <strong>~</strong>00 - 00</li>
 <li>Intricate Heart Sculpture <strong>~</strong>00 - 00</li>
 <li>Intricate Silver Choker <strong>~</strong>00 - 00</li>
@@ -5483,6 +5483,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Jail of Hearts Foreground <strong>~</strong>00 - 00</li>
 <li>Jail Shirt <strong>~</strong>00 - 00</li>
 <li>Jar of Candy Hearts <strong>~</strong>00 - 00</li>
+<li>Jar of Hearts <strong>~</strong>1</li>
 <li>Jar of Lightmites <strong>~</strong>00 - 00</li>
 <li>Jars of Easter Goodies Foreground <strong>~</strong>00 - 00</li>
 <li>Jars of Hearts <strong>~</strong>00 - 00</li>
@@ -5587,7 +5588,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Kadoatie Cafe Garland <strong>~</strong>1 - 2</li>
 <li>Kadoatie Cafe Shirt <strong>~</strong>1 - 2</li>
 <li>Kadoatie Cafe Treat Tray <strong>~</strong>1 - 2</li>
-<li>Kadoatie Cafe Waitress Dress <strong>~</strong>00 - 00</li>
+<li>Kadoatie Cafe Waitress Dress <strong>~</strong>1 - 2</li>
 <li>Kadoatie Cafe Waitress Wig<strong>~</strong>1 - 2</li>
 <li>Kadoatie Lunchtime Foreground<strong>~</strong>00 - 00</li>
 <li>Kadoatie Playroom Background <strong>~</strong>1 - 2</li>
@@ -5663,7 +5664,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>King of Green Hat <strong>~</strong>00 - 00</li>
 <li>King of Green Staff <strong>~</strong>00 - 00</li>
 <li>King of Neopia Background <strong>~</strong>00 - 00</li>
-<li>King of the Forest Pants <strong>~</strong>00 - 00</li>
+<li>King of the Forest Pants <strong>~</strong>1 - 2</li>
 <li>King of the Forest Robes <strong>~</strong>1 - 2</li>
 <li>King of the Forest Shoes <strong>~</strong>00 - 00</li>
 <li>King of the Forest Wig <strong>~</strong>1 - 2</li>
@@ -5804,7 +5805,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Land of Gifts Background <strong>~</strong>00 - 00</li>
 <li>Land of Magic Background <strong>~</strong>2 - 4</li>
 <li>Lanie and Lillie Collectors Contacts <strong>~</strong>4 - 5</li>
-<li>Lanie and Lillie Handheld Plushie Set <strong>~</strong>00 - 00</li>
+<li>Lanie and Lillie Handheld Plushie Set <strong>~</strong>2 - 3</li>
 <li>Lanie and Lillie Hide & Go Seek <strong>~</strong>00 - 00</li>
 <li>Lantern Lined Path <strong>~</strong>00 - 00</li>
 <li>Lantern lit Tree <strong>~</strong>2 - 3</li>
@@ -5832,9 +5833,9 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Lavender Negg Necklace <strong>~</strong>00 - 00</li>
 <li>Lavender Petal Dress <strong>~</strong>1 - 2</li>
 <li>Lavender Trellis Background <strong>~</strong>3 - 4</li>
-<li>Lavender Tulle Dress <strong>~</strong>00 - 00</li>
+<li>Lavender Tulle Dress <strong>~</strong>4 - 5</li>
 <li>Lavish Gown <strong>~</strong>00 - 00</li>
-<li>Lavish Powder Room Background <strong>~</strong>00 - 00</li>
+<li>Lavish Powder Room Background <strong>~</strong>1 - 2</li>
 <li>Lawyerbot Briefcase <strong>~</strong>00 - 00</li>
 <li>Lawyerbot Head <strong>~</strong>00 - 00</li>
 <li>Lawyerbot Top <strong>~</strong>00 - 00</li>
@@ -5877,7 +5878,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Lemonade Stand Table <strong>~</strong>00 - 00</li>
 <li>Lenny Conundrum Wizard Collectors Wand <strong>~</strong>00 - 00</li>
 <li>Leprechaun Overalls <strong>~</strong>00 - 00</li>
-<li>Leprechaun Suit <strong>~</strong>00 - 00</li>
+<li>Leprechaun Suit <strong>~</strong>1 - 2</li>
 <li>Leprechaun Tree Housing <strong>~</strong>00 - 00</li>
 <li>Let Love Grow Plant Collection <strong>~</strong>1 - 2</li>
 <li>Library of Ghost Stories Background <strong>~</strong>1 - 2</li>
@@ -5900,7 +5901,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Light Shower Garland <strong>~</strong>4 - 6</li>
 <li>Light Up Beanie and Short Wig <strong>~</strong>00 - 00</li>
 <li>Light Up Cassettes Foreground <strong>~</strong>00 - 00</li>
-<li>Light Up Heart Trinket <strong>~</strong>00 - 00</li>
+<li>Light Up Heart Trinket <strong>~</strong>1 - 2</li>
 <li>Light Up Holiday Sweater <strong>~</strong>00 - 00</li>
 <li>Light Up Jars of the Sea <strong>~</strong>00 - 00</li>
 <li>Light Up Pillars Foreground <strong>~</strong>1 - 2</li>
@@ -5910,7 +5911,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Lighted Chiffon Curtains <strong>~</strong>00 - 00</li>
 <li>Lighted Columns Foreground <strong>~</strong>00 - 00</li>
 <li>Lighted Faerie Staff <strong>~</strong>2 - 4</li>
-<li>Lighted Globe Garland <strong>~</strong>00 - 00</li>
+<li>Lighted Globe Garland <strong>~</strong>5 - 6</li>
 <li>Lighted Gothic Tree <strong>~</strong>00 - 00</li>
 <li>Lighted Gourd Staff <strong>~</strong>00 - 00</li>
 <li>Lighted Hillside Background <strong>~</strong>Buyable</li>
@@ -5920,7 +5921,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Lighted Jar Garland <strong>~</strong>00 - 00</li>
 <li>Lighted Lace Jars <strong>~</strong>00 - 00</li>
 <li>Lighted Lamp Fence Foreground <strong>~</strong>00 - 00</li>
-<li>Lighted Nest Background <strong>~</strong>00 - 00</li>
+<li>Lighted Nest Background <strong>~</strong>1 - 2</li>
 <li>Lighted Palm Tree <strong>~</strong>00 - 00</li>
 <li>Lighted Pastel Sweater <strong>~</strong>3 - 5</li>
 <li>Lighted Plastic Fir <strong>~</strong>00 - 00</li>
@@ -5930,7 +5931,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Lighted Sand Castle Background <strong>~</strong>1 - 2</li>
 <li>Lighted Side Tree <strong>~</strong>00 - 00</li>
 <li>Lighted Spring Dress <strong>~</strong>00 - 00</li>
-<li>Lighted Spring Gazebo <strong>~</strong>00 - 00</li>
+<li>Lighted Spring Gazebo <strong>~</strong>2</li>
 <li>Lighted Teacup Garland <strong>~</strong>1 - 2</li>
 <li>Lighted Tree of Neggs <strong>~</strong>00 - 00</li>
 <li>Lighted Tree Wig <strong>~</strong>00 - 00</li>
@@ -5943,7 +5944,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Lightning Lenny Collectors Boots <strong>~</strong>00 - 00</li>
 <li>Lightning Trousers <strong>~</strong>00 - 00</li>
 <li>Lights and Hearts Garland <strong>~</strong>Buyable</li>
-<li>Lights of the Night <strong>~</strong>00 - 00</li>
+<li>Lights of the Night <strong>~</strong>8 - 10</li>
 <li>Lil Frankie Comes to Life <strong>~</strong>00 - 00</li>
 <li>Lil Frankie Handheld Plushie <strong>~</strong>00 - 00</li>
 <li>Lil Rascal Baby Hat <strong>~</strong>1 - 2</li>
@@ -6009,9 +6010,9 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Lost Desert Palace View Background <strong>~</strong>6</li>
 <li>Lost Desert Palm Tree <strong>~</strong>00 - 00</li>
 <li>Lost Desert Perfume Collection <strong>~</strong>00 - 00</li>
-<li>Lost Desert Pyramids Background <strong>~</strong>00 - 00</li>
+<li>Lost Desert Pyramids Background <strong>~</strong>3</li>
 <li>Lost Desert Royalty Headdress <strong>~</strong>00 - 00</li>
-<li>Lost Desert Royalty Lounge <strong>~</strong>00 - 00</li>
+<li>Lost Desert Royalty Lounge <strong>~</strong>1 - 2</li>
 <li>Lost Desert Team Braided Wig <strong>~</strong>00 - 00</li>
 <li>Lost Desert Team Confetti Celebration <strong>~</strong>00 - 00</li>
 <li>Lost Desert Team Crazy Wig <strong>~</strong>00 - 00</li>
@@ -6108,7 +6109,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Lulus Purple Games Master Challenge Wig <strong>~</strong>00 - 00</li>
 <li>Lulus Y13 Dress <strong>~</strong>00 - 00</li>
 <li>Lulus Y13 Shoes <strong>~</strong>00 - 00</li>
-<li>Luminesce Nature Foreground <strong>~</strong>00 - 00</li>
+<li>Luminesce Nature Foreground <strong>~</strong>10 - 15</li>
 <li>Luminescent Faerie Wings <strong>~</strong>00 - 00</li>
 <li>Luminous Jacket <strong>~</strong>00 - 00</li>
 <li>Luminous Lighted Pastel Wig <strong>~</strong>1 - 2</li>
@@ -6163,7 +6164,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Mages Enchanted Staff <strong>~</strong>00 - 00</li>
 <li>Magic Beanstalk Background <strong>~</strong>00 - 00</li>
 <li>Magic Conjuring Earrings <strong>~</strong>1 - 2</li>
-<li>Magic Conjuring Necklace <strong>~</strong>00 - 00</li>
+<li>Magic Conjuring Necklace <strong>~</strong>1 - 2</li>
 <li>Magic of Autumn Background <strong>~</strong>3</li>
 <li>Magic Spell Circle Background <strong>~</strong>3 - 5</li>
 <li>Magical Alchemy Set <strong>~</strong>00 - 00</li>
@@ -6181,7 +6182,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Magical Floor Harp <strong>~</strong>Buyable</li>
 <li>Magical Floral Wig <strong>~</strong>8 - 10</li>
 <li>Magical Flower Orb <strong>~</strong>00 - 00</li>
-<li>Magical Forest Background <strong>~</strong>00 - 00</li>
+<li>Magical Forest Background <strong>~</strong>1</li>
 <li>Magical Gate Foreground <strong>~</strong>00 - 00</li>
 <li>Magical Gears Staff <strong>~</strong>00 - 00</li>
 <li>Magical Golden Markings <strong>~</strong>8 - 10</li>
@@ -6258,24 +6259,24 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Maraqua Team Vuvuzela <strong>~</strong>00 - 00</li>
 <li>Maraqua Team Yooyuball <strong>~</strong>00 - 00</li>
 <li>Maraqua Team Yooyuball Racket <strong>~</strong>00 - 00</li>
-<li>Maraquan Basket of Seashells <strong>~</strong>00 - 00</li>
+<li>Maraquan Basket of Seashells <strong>~</strong>1 - 2</li>
 <li>Maraquan Breezy Tank Top <strong>~</strong>00 - 00</li>
 <li>Maraquan Bun with Wispy Bangs <strong>~</strong>00 - 00</li>
 <li>Maraquan Castle Background <strong>~</strong>00 - 00</li>
 <li>Maraquan Clam with Precious Pearl <strong>~</strong>1 - 2</li>
 <li>Maraquan Enchanting Sea Jelly Costume <strong>~</strong>1 - 2</li>
 <li>Maraquan Exploration Helmet <strong>~</strong>00 - 00</li>
-<li>Maraquan Exploration Suit <strong>~</strong>00 - 00</li>
+<li>Maraquan Exploration Suit <strong>~</strong>1 - 2</li>
 <li>Maraquan Exploration Tank <strong>~</strong>00 - 00</li>
 <li>Maraquan Fancy Dress <strong>~</strong>00 - 00</li>
 <li>Maraquan Flowing Fuchsia Wig <strong>~</strong>Buyable</li>
 <li>Maraquan Jail Cell Foreground <strong>~</strong>00 - 00</li>
-<li>Maraquan Jeweled Foreground <strong>~</strong>00 - 00</li>
+<li>Maraquan Jeweled Foreground <strong>~</strong>15</li>
 <li>Maraquan Jewelled Trident Handheld <strong>~</strong>Buyable</li>
 <li>Maraquan Light Blue Dress <strong>~</strong>00 - 00</li>
 <li>Maraquan Maiden Arm Bracelets <strong>~</strong>00 - 00</li>
 <li>Maraquan Maiden Dress <strong>~</strong>00 - 00</li>
-<li>Maraquan Maiden Wig with Flower <strong>~</strong>00 - 00</li>
+<li>Maraquan Maiden Wig with Flower <strong>~</strong>1 - 2</li>
 <li>Maraquan Majestic Arm Cuff <strong>~</strong>00 - 00</li>
 <li>Maraquan Mermaid Tail <strong>~</strong>1 - 2</li>
 <li>Maraquan Ocean Blue Contacts <strong>~</strong>1 - 2</li>
@@ -6283,7 +6284,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Maraquan Peach Ruffled Gown <strong>~</strong>00 - 00</li>
 <li>Maraquan Pirates Background <strong>~</strong>1 - 2</li>
 <li>Maraquan Queen Body Jewelry <strong>~</strong>1 - 2</li>
-<li>Maraquan Roamers Cape <strong>~</strong>00 - 00</li>
+<li>Maraquan Roamers Cape <strong>~</strong>10 - 15</li>
 <li>Maraquan Scale Markings <strong>~</strong>Buyable</li>
 <li>Maraquan Sea Blue Gown <strong>~</strong>00 - 00</li>
 <li>Maraquan Silver Markings <strong>~</strong>Buyable</li>
@@ -6295,7 +6296,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Maraquan White Lace Gown <strong>~</strong>00 - 00</li>
 <li>Maraquan Wig <strong>~</strong>00 - 00</li>
 <li>Maraquan Wig with Negg Accessory <strong>~</strong>00 - 00</li>
-<li>Maraquan Wig with Ocean Jewels <strong>~</strong>00 - 00</li>
+<li>Maraquan Wig with Ocean Jewels <strong>~</strong>5 - 6</li>
 <li>Maraquan Wind Chimes <strong>~</strong>00 - 00</li>
 <li>Marble Halls Gown <strong>~</strong>00 - 00</li>
 <li>Marbled Glass Headband Wig <strong>~</strong>00 - 00</li>
@@ -6416,7 +6417,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Midnight Frost Background <strong>~</strong>00 - 00</li>
 <li>Midnight Frost Dress <strong>~</strong>00 - 00</li>
 <li>Midnight Frost Orb <strong>~</strong>00 - 00</li>
-<li>Midnight Frost Shoes <strong>~</strong>00 - 00</li>
+<li>Midnight Frost Shoes <strong>~</strong>3 - 5</li>
 <li>Midnight Frost Wig <strong>~</strong>00 - 00</li>
 <li>Midnight Lace Holiday Dress <strong>~</strong>00 - 00</li>
 <li>Midnight Light Twinkles <strong>~</strong>1 - 2</li>
@@ -6480,7 +6481,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>MiniMME17-S2a: Whimsical Governess Essentials <strong>~</strong>00 - 00</li>
 <li>MiniMME17-S2b: Whimsical Governess Wig and Hat <strong>~</strong>00 - 00</li>
 <li>MiniMME17-S2c: Whimsical Tea Table <strong>~</strong>00 - 00</li>
-<li>MiniMME18-B: Space Exploration Background <strong>~</strong>00 - 00</li>
+<li>MiniMME18-B: Space Exploration Background <strong>~</strong>90 - 100</li>
 <li>MiniMME18-S1: Galactic Traveller Jacket <strong>~</strong>00 - 00</li>
 <li>MiniMME18-S2a: Galactic Traveller Wig <strong>~</strong>20</li>
 <li>MiniMME18-S2b: Galactic Traveller Belt <strong>~</strong>00 - 00</li>
@@ -6543,7 +6544,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>MiniMME9-S2: Rainy Spring Porch Background <strong>~</strong>00 - 00</li>
 <li>MiniMME9-S2: Spring Rain Jacket <strong>~</strong>00 - 00</li>
 <li>MiniMME9-S2: Water Drugal Handheld Plushie <strong>~</strong>00 - 00</li>
-<li>Mint and Aqua Flower Wig <strong>~</strong>00 - 00</li>
+<li>Mint and Aqua Flower Wig <strong>~</strong>3 - 5</li>
 <li>Mint Green Carved Wings <strong>~</strong>00 - 00</li>
 <li>Mint Green Lace Shirt <strong>~</strong>00 - 00</li>
 <li>Mint Green Romper <strong>~</strong>00 - 00</li>
@@ -6638,7 +6639,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>MME17-S4b: Icy Mist Shower <strong>~</strong>1 - 2</li>
 <li>MME18-B: Gothic Lace Caplet <strong>~</strong>1 - 2</li>
 <li>MME18-S1: Gothic Rose Dress <strong>~</strong>1 - 2</li>
-<li>MME18-S2a: Gothic Branches Garland <strong>~</strong>00 - 00</li>
+<li>MME18-S2a: Gothic Branches Garland <strong>~</strong>3 - 5</li>
 <li>MME18-S2b: Gothic Spring Tree <strong>~</strong>3 - 4</li>
 <li>MME18-S2c: Gothic Tulip Bouquet <strong>~</strong>00 - 00</li>
 <li>MME18-S3: Gothic Evening Wig <strong>~</strong>1 - 2</li>
@@ -6694,7 +6695,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>MME23-S1: Magnificent Entryway Background <strong>~</strong>00 - 00</li>
 <li>MME23-S2a: Sugary Love Bakers Apron <strong>~</strong>00 - 00</li>
 <li>MME23-S2b: Gamers Sweatshirt <strong>~</strong>00 - 00</li>
-<li>MME23-S3a: Endless Baking Background <strong>~</strong>00 - 00</li>
+<li>MME23-S3a: Endless Baking Background <strong>~</strong>1 - 2</li>
 <li>MME23-S3b: Gamers Paradise Background <strong>~</strong>00 - 00</li>
 <li>MME23-S4a: Sprinkles and Sugar Wig <strong>~</strong>00 - 00</li>
 <li>MME23-S4b: Ultimate Headset and Wig <strong>~</strong>00 - 00</li>
@@ -6844,9 +6845,9 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Moon Shoes <strong>~</strong>00 - 00</li>
 <li>Moon Walk Background <strong>~</strong>2</li>
 <li>Moonlight Night Celebration Background <strong>~</strong>00 - 00</li>
-<li>Moonlit Balcony Background <strong>~</strong>00 - 00</li>
+<li>Moonlit Balcony Background <strong>~</strong>1 - 2</li>
 <li>Moonlit Contacts <strong>~</strong>00 - 00</li>
-<li>Moonlit Lunar Temple Background <strong>~</strong>00 - 00</li>
+<li>Moonlit Lunar Temple Background <strong>~</strong>1 - 2</li>
 <li>Moonlit Night Wings <strong>~</strong>00 - 00</li>
 <li>Moonlit Ruins Background <strong>~</strong>2</li>
 <li>Mootix Hat <strong>~</strong>00 - 00</li>
@@ -6878,7 +6879,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Mummy Candy Holder <strong>~</strong>00 - 00</li>
 <li>Mummy Wrapped Hands <strong>~</strong>00 - 00</li>
 <li>Museum Habitat Background <strong>~</strong>00 - 00</li>
-<li>Mushroom and Flower Arch <strong>~</strong>00 - 00</li>
+<li>Mushroom and Flower Arch <strong>~</strong>2</li>
 <li>Mushroom Bouquet <strong>~</strong>Buyable</li>
 <li>Mushroom Houses Foreground <strong>~</strong>1 - 2</li>
 <li>Mushrooms of Spring Background <strong>~</strong>2</li>
@@ -7018,7 +7019,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Nautical Knot Wig <strong>~</strong>1 - 2</li>
 <li>Nautical Shirt <strong>~</strong>00 - 00</li>
 <li>Nautical Souvenirs Garland <strong>~</strong>00 - 00</li>
-<li>Nautical Treasures Garland <strong>~</strong>00 - 00</li>
+<li>Nautical Treasures Garland <strong>~</strong>1 - 2</li>
 <li>Nautical Trinkets Bouquet <strong>~</strong>00 - 00</li>
 <li>Nautical Trousers <strong>~</strong>00 - 00</li>
 <li>Navy Belted Coat <strong>~</strong>00 - 00</li>
@@ -7093,7 +7094,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Neovian Sitting Room Background <strong>~</strong>1 - 2</li>
 <li>Neovian Spyder Dress <strong>~</strong>00 - 00</li>
 <li>Neovian Style Ball Gown <strong>~</strong>1 - 2</li>
-<li>Neovian Style Outfit<strong>~</strong>00 - 00</li>
+<li>Neovian Style Outfit <strong>~</strong>1 - 2</li>
 <li>Neovian Top Hat and Wig <strong>~</strong>00 - 00</li>
 <li>Neovian Tunnels Background <strong>~</strong>00 - 00</li>
 <li>Neovian Twilight Background <strong>~</strong>Buyable</li>
@@ -7119,7 +7120,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>New Years Hat of Prosperity <strong>~</strong>00 - 00</li>
 <li>New Years Hat with Surprise <strong>~</strong>00 - 00</li>
 <li>New Years in Altador Background <strong>~</strong>00 - 00</li>
-<li>New Years in Brightvale Background <strong>~</strong>00 - 00</li>
+<li>New Years in Brightvale Background <strong>~</strong>1 - 2</li>
 <li>New Years in Darigan Citadel Background <strong>~</strong>00 - 00</li>
 <li>New Years in Faerieland Background <strong>~</strong>4 - 6</li>
 <li>New Years in Haunted Woods Background <strong>~</strong>00 - 00</li>
@@ -7547,7 +7548,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Phantom of the Background <strong>~</strong>00 - 00</li>
 <li>Philosophers Wig <strong>~</strong>00 - 00</li>
 <li>Photo of Me Background <strong>~</strong>Untradeable NC found in Elite Boutique</li>
-<li>Picket Fence Handbag <strong>~</strong>00 - 00</li>
+<li>Picket Fence Handbag <strong>~</strong>4 - 6</li>
 <li>Picnic Skirt <strong>~</strong>00 - 00</li>
 <li>Picnic Thought Bubble <strong>~</strong>00 - 00</li>
 <li>Picture Perfect Backdrop <strong>~</strong>1 - 2</li>
@@ -10563,6 +10564,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>White Cross Hatch Dress <strong>~</strong>2 - 4</li>
 <li>White Daisy Garland <strong>~</strong>4 - 5</li>
 <li>White Dress with Ombre Lace <strong>~</strong>00 - 00</li>
+<li>White Floral Button Down <strong>~</strong>00 - 00</li>
 <li>White Flower Embroidery Dress <strong>~</strong>00 - 00</li>
 <li>White Flower Red Bathing Suit <strong>~</strong>00 - 00</li>
 <li>White Flowy Blouse <strong>~</strong>00 - 00</li>
