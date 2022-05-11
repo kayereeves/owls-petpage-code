@@ -1,0 +1,279 @@
+<style>
+body {
+	background: #F2F2F2;
+}
+.footer, .sf, .smallfont, .mbn {
+	display: none;
+}
+body, div, tr {
+	font: 14px arial;
+}
+hr, td a img {
+	visibility: hidden;
+	clear: both;
+}
+#link table {
+	display: inline;
+}
+table {
+	background-color: transparent;
+	border-spacing: 0px;
+	margin: 0px;
+	padding: 0px;
+}
+.working td a img, .working a img {
+	visibility: visible;
+	clear: both;
+}
+b {
+	color: #111;
+}
+i {
+	font-family: georgia;
+}
+strong {
+	font: bold 17px arial;
+	color: #000;
+	margin: 5px;
+}
+a:active, a:link, a:visited {
+	color: #333;
+	font-weight: normal;
+	text-decoration: underline;
+}
+a:hover {
+	text-decoration: none;
+	color: #000;
+}
+li {
+	list-style-image: url("http://imageshack.com/a/img844/2328/ynxn.png");
+	margin-bottom: 10px;
+}
+h1 {
+	padding: 5px;
+	font: italic 65px georgia;
+	border: none;
+	background: none;
+	color: #000;
+	text-align: center;
+	margin: 5px;
+}
+h1 b {
+	font: bold 14px tahoma;
+	margin-top: -50px;
+	letter-spacing: 1px;
+}
+h2 {
+	margin: 25px;
+	font: bold 20px tahoma;
+	border: none;
+	background: none;
+	color: #000;
+	text-align: left;
+	text-indent: 50px;
+	border-bottom: 3px solid #F2F2F2;
+}
+.divider {
+	width: 700px;
+	height: 5px;
+	background: #DCDADA;
+	margin: 10px;
+}
+.navi, a.navi:link, a.navi:active, a.navi:visited, .navi2, a.navi2:link, a.navi2:active, a.navi2:visited {
+	display: inline-block;
+	padding: 5px;
+	margin: 5px;
+	text-align: center;
+	text-decoration: none;
+	font: bold 12px verdana;
+}
+.navi, a.navi:link, a.navi:active, a.navi:visited {
+	background: #000;
+	border-bottom: 2px solid #000;
+	color: #F2F2F2;
+}
+.navi2, a.navi2:link, a.navi2:active, a.navi2:visited {
+	background: none;
+	border-bottom: 2px solid #F2F2F2;
+	color: #DDD;
+}
+a.navi:hover {
+	border-bottom: 2px solid #F2F2F2;
+	background: none;
+	color: #FFF;
+}
+a.navi2:hover {
+	border-bottom: 2px solid #111;
+	background: none;
+	color: #FFF;
+}
+#your-notes {
+	width: 175px;
+	padding: 5px;
+	text-align: justify;
+	background: none;
+	overflow: hidden;
+}
+.write {
+	width: 150px;
+	height: 150px;
+	overflow: hidden;
+	padding: 5px;
+	background: #E7E7E7;
+	font: 10.5px tahoma;
+	color: #000;
+	border: none;
+}
+.write:hover {
+	overflow: auto;
+	background: #FFF;
+}
+#your-notes a {
+	text-decoration: none;
+	color: #111;
+	font: bold 15px verdana;
+}
+#notes-box {
+	top: 120px;
+	right: 1%;
+	background: none;
+	z-index: 500;
+	overflow: hidden;
+	height: 175px;
+}
+#navigation {
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: auto;
+	background: #111;
+	padding: 10px;
+	text-align: center;
+	z-index: 9999;
+}
+#home {
+	left: 0px;
+	top: 60px;
+	width: 200px;
+	height: auto;
+	background: #DCDADA;
+	padding: 20px;
+	margin: 20px;
+	text-align: center;
+	z-index: 9998;
+	font: 11px tahoma;
+}
+#credits {
+	width: 820px;
+	background: #FFF;
+	padding: 20px;
+	margin: 20px;
+	margin-left: 29%;
+	text-align: center;
+}
+.content-box {
+	width: 900px;
+	background: none;
+	padding: 20px;
+	margin: 20px;
+	margin-left: 30%;
+	text-align: left;
+}
+.button {
+	width: 94px;
+	height: 25px;
+	padding: 3px;
+	margin: 3px;
+	background: #FFF;
+	color: #000;
+	font: 9px tahoma;
+	border: none;
+	overflow: hidden;
+}
+.button:hover {
+	background: none;
+}
+.im {
+	padding: 3px;
+	margin: 3px;
+	background: #FFF;
+	border: 1px solid #DDD;
+}
+</style><a name="top"></a><br><br><div style="position: fixed;" id="navigation">
+<a href="#num" class="navi">#</a>
+<a href="#A" class="navi">A</a>
+<a href="#B" class="navi">B</a>
+<a href="#C" class="navi">C</a>
+<a href="#D" class="navi">D</a>
+<a href="#E" class="navi">E</a>
+<a href="#F" class="navi">F</a>
+<a href="#G" class="navi">G</a>
+<a href="#H" class="navi">H</a>
+<a href="#I" class="navi">I</a>
+<a href="#J" class="navi">J</a>
+<a href="#K" class="navi">K</a>
+<a href="#L" class="navi">L</a>
+<a href="#M" class="navi">M</a>
+<a href="#N" class="navi">N</a>
+<a href="#O" class="navi">O</a>
+<a href="#P" class="navi">P</a>
+<a href="#Q" class="navi">Q</a>
+<a href="#R" class="navi">R</a>
+<a href="#S" class="navi">S</a>
+<a href="#T" class="navi">T</a>
+<a href="#U" class="navi">U</a>
+<a href="#V" class="navi">V</a>
+<a href="#W" class="navi">W</a>
+<a href="#X" class="navi">X</a>
+<a href="#Y" class="navi">Y</a>
+<a href="#Z" class="navi">Z</a>
+<a href="#top" class="navi">#top</a>
+</div>
+
+<div style="position: fixed;" id="notes-box">
+<center>
+<div id="your-notes">
+<div style="text-align: right;"><a href="#gone">X</a></div>
+<textarea class="write" style="border-radius: 5px;">
+You can write your notes here, or otherwise just close the tab!!
+</textarea></div>
+</center>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><div id="gone"></div></div>
+
+
+<div style="position: fixed; border-radius: 5px;" id="home">
+<h1>OWLS<br><b>NC Values Guide</b></h1>
+<center>
+<b>Owls</b> was created in August of 2021 and is run by <a href="http://www.neopets.com/neomessages.phtml?type=send&recipient=imgonnageta">Amelia</a>, <a href="http://www.neopets.com/neomessages.phtml?type=send&recipient=curseofthecoffin">Azura</a>, <a href="http://www.neopets.com/neomessages.phtml?type=send&recipient=catelyn_tully_stark">Kaye</a>, <a href="http://www.neopets.com/neomessages.phtml?type=send&recipient=miseryprevalent">Megan</a>, <a href="http://www.neopets.com/neomessages.phtml?type=send&recipient=new_perspective">Mallory</a>, <a href="http://www.neopets.com/neomessages.phtml?type=send&recipient=xxbowling_babexx">Caitlyn</a>, <a href="http://www.neopets.com/neomessages.phtml?type=send&recipient=shortystreetaddict25">Jaya</a>, and <a href="http://www.neopets.com/neomessages.phtml?type=send&recipient=Zilaena">Elan</a>.<br><br>
+Interested in joining the Owls team? Neomail or contact Amelia!<br><br>More about our team:<br><a href="/~OwlsFAQ"><img src="http://i.imgur.com/VEAmFvR.gif"></a><br><br>
+
+
+
+RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle trade data: <a href="/~NCShuffle">Coming soon</a><br><br><table class="working"><tr><td>
+<img src="http://imagizer.imageshack.com/img922/7153/qEskFE.gif" class="im"><br><textarea class="button"><a href="/~Owls'"><img src="http://imagizer.imageshack.com/img922/7153/qEskFE.gif" border="0"></a>
+</textarea></td>
+
+<td>
+<img src="http://imagizer.imageshack.com/img924/9435/UvrYCy.gif" class="im"><br><textarea class="button"><a href="/~Owls"><img src="http://imagizer.imageshack.com/img924/9435/UvrYCy.gif" border="0"></a>
+</textarea></td>
+
+</tr></table></center><br><br><a href="/~Neocash"><img src="http://i.imgur.com/RhvVOHs.gif"></a> <a href="/~Waka"><img src="http://i.imgur.com/JG6KI7l.gif"></a><br><a href="/~Tarbi"><img src="http://i.imgur.com/tMdv2mU.gif"></a> <a href="/~ncnc"><img src="http://i.imgur.com/t28Bfix.gif"></a><br><a href="/~Valisar"><img src="http://imagizer.imageshack.com/img923/7669/lrdBaK.gif"></a>
+<br><br></div>
+
+
+
+
+<center>
+<div class="content-box">
+<br><br><br><h2>Disclaimers</h2>
+<li>GUIDES ARE ONLY GUIDES, NOT LAW.</li>
+<li>/~Owls is not updated 24/7 and values or obtainability may have shifted since the last update.</li>
+<li>An item listed at 00 - 00 means we do not currently have enough data to assign a value.</li>
+<li>Please be aware that values, rarity, and popularity of any NC item are essential to consider and are usually factors in one's ability to find specific trades. Use your own discretion and make value check boards if you are unsure about items.</li>
+<li>Owls lists the numerical values of items based on trade data reported by the community. We do not update subjectively and cannot modify values without trade reports.</li>
+<li>You can report your trade by mailing a team member or posting on the Owls data board on the NCC.</li>
+<li>Items without values lack values for differing reasons, including lack of data and recency of release. These items are NOT uniform in value or rarity: some are low, high, common, or rare. If you need help with an item that does not have a value listed, please make a value check board and/or contact a /~Owls team member.</li>
+<li>We use American MM/DD for dates.</li><br><br><br><b>LAST UPDATE:</b> <i>March 22nd</i>
+
+
+
