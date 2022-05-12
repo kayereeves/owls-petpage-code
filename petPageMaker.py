@@ -46,7 +46,7 @@ petPageCSS is the start of the pet page code that includes the CSS and starting 
 petPageFooter is the bottom of pet page code
 genedCode is the list of items and values made
 """
-genedCode = open(cwd + "/itemsCode.txt", "w")
+genedCode = open(cwd + "/OWLS PETPAGE COPY.txt", "w")
 
 petPageCSStxt = "https://raw.githubusercontent.com/kayereeves/owls-petpage-code/main/topOfPetPage.txt"
 petPageCSS = requests.get(petPageCSStxt)
@@ -62,7 +62,7 @@ for line in petPageCSS:
 
 
 # reads csv of item values and puts it into html for pet page
-with open(cwd + "/testingText.csv", "r") as itemValues:
+with open(cwd + "/valuecsv.csv", "r") as itemValues:
     csvReader = reader(itemValues)
     for row in csvReader:
         line = row[0].split("\t")
