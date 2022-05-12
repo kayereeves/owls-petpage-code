@@ -1,7 +1,24 @@
 
 
 </div><br><div style="border-radius: 10px;" id="credits">
-Petpage layout made and coded by Sosu (<a href="/userlookup.phtml?user=sosunub">sosunub</a>) at <a href="/~Fall">Fall</a> // NC Value Guide run by <a href="http://www.neopets.com/neomessages.phtml?type=send&recipient=imgonnageta">Amelia</a>, <a href="http://www.neopets.com/neomessages.phtml?type=send&recipient=curseofthecoffin">Azura</a>, <a href="http://www.neopets.com/neomessages.phtml?type=send&recipient=catelyn_tully_stark">Kaye</a>, <a href="http://www.neopets.com/neomessages.phtml?type=send&recipient=miseryprevalent">Megan</a>, <a href="http://www.neopets.com/neomessages.phtml?type=send&recipient=new_perspective">Mallory</a>, <a href="http://www.neopets.com/neomessages.phtml?type=send&recipient=xxbowling_babexx">Caitlyn</a>, <a href="http://www.neopets.com/neomessages.phtml?type=send&recipient=shortystreetaddict25">Jaya</a>, and <a href="http://www.neopets.com/neomessages.phtml?type=send&recipient=Zilaena">Elan</a>.
+Petpage layout made and coded by Sosu (<a href="/userlookup.phtml?user=sosunub">sosunub</a>) at <a href="/~Fall">Fall</a> // NC Value Guide run by 
+<a href="/neomessages.phtml?type=send&recipient=imgonnageta">Amelia</a>,
+<a href="/neomessages.phtml?type=send&recipient=curseofthecoffin"> Azura</a>,
+<a href="/neomessages.phtml?type=send&recipient=catelyn_tully_stark"> Kaye</a>,
+<a href="/neomessages.phtml?type=send&recipient=new_perspective"> mallory</a>,
+<a href="/neomessages.phtml?type=send&recipient=shortystreetaddict25"> Jaya</a>,
+<a href="/neomessages.phtml?type=send&recipient=black_rose280"> Christina</a>,
+<a href="/neomessages.phtml?type=send&recipient=lover_girl91307"> Jess</a>,
+<a href="/neomessages.phtml?type=send&recipient=xbananababiezx"> Shannon</a>,
+<a href="/neomessages.phtml?type=send&recipient=actiontal"> Tal</a>,
+<a href="/neomessages.phtml?type=send&recipient=mg_luvr01"> Dev</a>,
+<a href="/neomessages.phtml?type=send&recipient=mandakitty12"> Taunted</a>,
+<a href="/neomessages.phtml?type=send&recipient=dinahaby"> Christina K</a>,
+<a href="/neomessages.phtml?type=send&recipient=ruxisqueen"> Brenda</a>,
+<a href="/neomessages.phtml?type=send&recipient=aikian"> Leaf</a>
+<a href="/neomessages.phtml?type=send&recipient=bl222"> Wolfie</a>,
+<a href="/neomessages.phtml?type=send&recipient=syndiee"> Eva</a>
+ and <a href="/neomessages.phtml?type=send&recipient=destanyyyyy">Destany</a>.
 </div>
 
 

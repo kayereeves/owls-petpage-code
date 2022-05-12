@@ -200,33 +200,6 @@ a.navi2:hover {
 	border: 1px solid #DDD;
 }
 </style><a name="top"></a><br><br><div style="position: fixed;" id="navigation">
-<a href="#num" class="navi">#</a>
-<a href="#A" class="navi">A</a>
-<a href="#B" class="navi">B</a>
-<a href="#C" class="navi">C</a>
-<a href="#D" class="navi">D</a>
-<a href="#E" class="navi">E</a>
-<a href="#F" class="navi">F</a>
-<a href="#G" class="navi">G</a>
-<a href="#H" class="navi">H</a>
-<a href="#I" class="navi">I</a>
-<a href="#J" class="navi">J</a>
-<a href="#K" class="navi">K</a>
-<a href="#L" class="navi">L</a>
-<a href="#M" class="navi">M</a>
-<a href="#N" class="navi">N</a>
-<a href="#O" class="navi">O</a>
-<a href="#P" class="navi">P</a>
-<a href="#Q" class="navi">Q</a>
-<a href="#R" class="navi">R</a>
-<a href="#S" class="navi">S</a>
-<a href="#T" class="navi">T</a>
-<a href="#U" class="navi">U</a>
-<a href="#V" class="navi">V</a>
-<a href="#W" class="navi">W</a>
-<a href="#X" class="navi">X</a>
-<a href="#Y" class="navi">Y</a>
-<a href="#Z" class="navi">Z</a>
 <a href="#top" class="navi">#top</a>
 </div>
 
@@ -244,7 +217,26 @@ You can write your notes here, or otherwise just close the tab!!
 <div style="position: fixed; border-radius: 5px;" id="home">
 <h1>OWLS<br><b>NC Values Guide</b></h1>
 <center>
-<b>Owls</b> was created in August of 2021 and is run by <a href="http://www.neopets.com/neomessages.phtml?type=send&recipient=imgonnageta">Amelia</a>, <a href="http://www.neopets.com/neomessages.phtml?type=send&recipient=curseofthecoffin">Azura</a>, <a href="http://www.neopets.com/neomessages.phtml?type=send&recipient=catelyn_tully_stark">Kaye</a>, <a href="http://www.neopets.com/neomessages.phtml?type=send&recipient=miseryprevalent">Megan</a>, <a href="http://www.neopets.com/neomessages.phtml?type=send&recipient=new_perspective">Mallory</a>, <a href="http://www.neopets.com/neomessages.phtml?type=send&recipient=xxbowling_babexx">Caitlyn</a>, <a href="http://www.neopets.com/neomessages.phtml?type=send&recipient=shortystreetaddict25">Jaya</a>, and <a href="http://www.neopets.com/neomessages.phtml?type=send&recipient=Zilaena">Elan</a>.<br><br>
+<b>Owls</b> was created in August of 2021 and is run by
+<a href="/neomessages.phtml?type=send&recipient=imgonnageta">Amelia</a>,
+<a href="/neomessages.phtml?type=send&recipient=curseofthecoffin"> Azura</a>,
+<a href="/neomessages.phtml?type=send&recipient=catelyn_tully_stark"> Kaye</a>,
+<a href="/neomessages.phtml?type=send&recipient=new_perspective"> mallory</a>,
+<a href="/neomessages.phtml?type=send&recipient=shortystreetaddict25"> Jaya</a>,
+<a href="/neomessages.phtml?type=send&recipient=black_rose280"> Christina</a>,
+<a href="/neomessages.phtml?type=send&recipient=lover_girl91307"> Jess</a>,
+<a href="/neomessages.phtml?type=send&recipient=xbananababiezx"> Shannon</a>,
+<a href="/neomessages.phtml?type=send&recipient=actiontal"> Tal</a>,
+<a href="/neomessages.phtml?type=send&recipient=mg_luvr01"> Dev</a>,
+<a href="/neomessages.phtml?type=send&recipient=mandakitty12"> Taunted</a>,
+<a href="/neomessages.phtml?type=send&recipient=dinahaby"> Christina K</a>,
+<a href="/neomessages.phtml?type=send&recipient=ruxisqueen"> Brenda</a>,
+<a href="/neomessages.phtml?type=send&recipient=aikian"> Leaf</a>,
+<a href="/neomessages.phtml?type=send&recipient=bl222"> Wolfie</a>,
+<a href="/neomessages.phtml?type=send&recipient=syndiee"> Eva</a>
+ and <a href="/neomessages.phtml?type=send&recipient=destanyyyyy">Destany</a>
+
+<br><br>
 Interested in joining the Owls team? Neomail or contact Amelia!<br><br>More about our team:<br><a href="/~OwlsFAQ"><img src="http://i.imgur.com/VEAmFvR.gif"></a><br><br>
 
 
@@ -268,6 +260,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <br><br><br><h2>Disclaimers</h2>
 <li>GUIDES ARE ONLY GUIDES, NOT LAW.</li>
 <li>/~Owls is not updated 24/7 and values or obtainability may have shifted since the last update.</li>
+<li>ctrl/command+f to find an item</li>
 <li>An item listed at 00 - 00 means we do not currently have enough data to assign a value.</li>
 <li>Please be aware that values, rarity, and popularity of any NC item are essential to consider and are usually factors in one's ability to find specific trades. Use your own discretion and make value check boards if you are unsure about items.</li>
 <li>Owls lists the numerical values of items based on trade data reported by the community. We do not update subjectively and cannot modify values without trade reports.</li>
