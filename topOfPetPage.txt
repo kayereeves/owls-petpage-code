@@ -231,7 +231,6 @@ You can write your notes here, or otherwise just close the tab!!
 <a href="/neomessages.phtml?type=send&recipient=mandakitty12"> Taunted</a>,
 <a href="/neomessages.phtml?type=send&recipient=dinahaby"> Christina K</a>,
 <a href="/neomessages.phtml?type=send&recipient=ruxisqueen"> Brenda</a>,
-<a href="/neomessages.phtml?type=send&recipient=aikian"> Leaf</a>,
 <a href="/neomessages.phtml?type=send&recipient=bl222"> Wolfie</a>,
 <a href="/neomessages.phtml?type=send&recipient=syndiee"> Eva</a>
  and <a href="/neomessages.phtml?type=send&recipient=destanyyyyy">Destany</a>
@@ -266,7 +265,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Owls lists the numerical values of items based on trade data reported by the community. We do not update subjectively and cannot modify values without trade reports.</li>
 <li>You can report your trade by mailing a team member or posting on the Owls data board on the NCC.</li>
 <li>Items without values lack values for differing reasons, including lack of data and recency of release. These items are NOT uniform in value or rarity: some are low, high, common, or rare. If you need help with an item that does not have a value listed, please make a value check board and/or contact a /~Owls team member.</li>
-<li>We use American MM/DD for dates.</li><br><br><br><b>LAST UPDATE:</b> <i>March 22nd</i>
+<li>We use American MM/DD for dates.</li><br><br><br><b>LAST UPDATE:</b> <i>May 17, 2022</i>
 
 
 

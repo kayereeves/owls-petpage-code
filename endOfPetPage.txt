@@ -15,7 +15,6 @@ Petpage layout made and coded by Sosu (<a href="/userlookup.phtml?user=sosunub">
 <a href="/neomessages.phtml?type=send&recipient=mandakitty12"> Taunted</a>,
 <a href="/neomessages.phtml?type=send&recipient=dinahaby"> Christina K</a>,
 <a href="/neomessages.phtml?type=send&recipient=ruxisqueen"> Brenda</a>,
-<a href="/neomessages.phtml?type=send&recipient=aikian"> Leaf</a>
 <a href="/neomessages.phtml?type=send&recipient=bl222"> Wolfie</a>,
 <a href="/neomessages.phtml?type=send&recipient=syndiee"> Eva</a>
  and <a href="/neomessages.phtml?type=send&recipient=destanyyyyy">Destany</a>.
