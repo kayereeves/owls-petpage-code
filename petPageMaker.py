@@ -3,6 +3,8 @@
 # windows, change the file path from / to \ before use  #
 #########################################################
 
+from curses.ascii import isalpha, isdigit
+from unittest import skip
 import pandas as pd
 from csv import reader
 import os
@@ -10,6 +12,11 @@ import requests
 import base64
 
 cwd = os.getcwd()
+
+alphabet = ["Item", "num", "A", "B", "C", "D", "E", "F", "G", "H",
+            "I", "J", "K", "L", "M", "N", "O", "P", 
+            "Q", "R", "S", "T", "U", "V", "W", "X"
+            "X", "Y", "Z"]
 
 ########################
 #  GOOGLE SHEET INFO   #
@@ -60,17 +67,32 @@ petPageFooter = petPageFooter.text
 for line in petPageCSS:
     genedCode.write(line)
 
+# helper function
+def writeCode(line):
+    genedCode.write("<li>" + line[1] + " <strong>~</strong> ")
+    if line[2] == "":
+        genedCode.write("00 - 00 </li>\n")
+    else:
+        genedCode.write(line[2] + "</li>\n")
 
 # reads csv of item values and puts it into html for pet page
 with open(os.path.join(cwd, "valuecsv.csv"), "r") as itemValues:
     csvReader = reader(itemValues)
+    alphaCount = 0
     for row in csvReader:
         line = row[0].split("\t")
-        genedCode.write("<li>" + line[1] + " <strong>~</strong> ")
-        if line[2] == "":
-            genedCode.write("00 - 00 </li>\n")
-        else:
-            genedCode.write(line[2] + "</li>\n")
+        if not isalpha(line[1][0]):
+            writeCode(line)
+        elif line[1][0] != alphabet[alphaCount]:
+            if alphabet[alphaCount] == "Item":
+                skip
+            alphaCount += 1
+            genedCode.write('\n\n\n<br><br><br><center><div class="divider"></div></center><br><br><a name="'+alphabet[alphaCount]+'"></a><br><br><br><h2>'+alphabet[alphaCount]+'</h2>\n')
+            writeCode(line)
+        elif line[1][0] == alphabet[alphaCount]:
+            writeCode(line)
+
+
 
 
 # add the footer

@@ -200,6 +200,33 @@ a.navi2:hover {
 	border: 1px solid #DDD;
 }
 </style><a name="top"></a><br><br><div style="position: fixed;" id="navigation">
+<a href="#num" class="navi">#</a>
+<a href="#A" class="navi">A</a>
+<a href="#B" class="navi">B</a>
+<a href="#C" class="navi">C</a>
+<a href="#D" class="navi">D</a>
+<a href="#E" class="navi">E</a>
+<a href="#F" class="navi">F</a>
+<a href="#G" class="navi">G</a>
+<a href="#H" class="navi">H</a>
+<a href="#I" class="navi">I</a>
+<a href="#J" class="navi">J</a>
+<a href="#K" class="navi">K</a>
+<a href="#L" class="navi">L</a>
+<a href="#M" class="navi">M</a>
+<a href="#N" class="navi">N</a>
+<a href="#O" class="navi">O</a>
+<a href="#P" class="navi">P</a>
+<a href="#Q" class="navi">Q</a>
+<a href="#R" class="navi">R</a>
+<a href="#S" class="navi">S</a>
+<a href="#T" class="navi">T</a>
+<a href="#U" class="navi">U</a>
+<a href="#V" class="navi">V</a>
+<a href="#W" class="navi">W</a>
+<a href="#X" class="navi">X</a>
+<a href="#Y" class="navi">Y</a>
+<a href="#Z" class="navi">Z</a>
 <a href="#top" class="navi">#top</a>
 </div>
 
