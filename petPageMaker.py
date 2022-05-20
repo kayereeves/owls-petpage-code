@@ -36,7 +36,7 @@ petPageData is the item name and it's assigned value
 """
 itemData = pd.read_csv(tradeData, sep=",")
 petPageData = itemData[["Item", "last Owls value"]]
-petPageData.to_csv(cwd + '/valuecsv.csv', sep='\t', encoding='utf-8')
+petPageData.to_csv(os.path.join(cwd, "valuecsv.csv"), sep='\t', encoding='utf-8')
 
 ########################
 #   PET PAGE STUFF     #
@@ -46,7 +46,7 @@ petPageCSS is the start of the pet page code that includes the CSS and starting 
 petPageFooter is the bottom of pet page code
 genedCode is the list of items and values made
 """
-genedCode = open(cwd + "/OWLS PETPAGE COPY.txt", "w")
+genedCode = open(os.path.join(cwd, "OWLS PETPAGE COPY.txt"), "w")
 
 petPageCSStxt = "https://raw.githubusercontent.com/kayereeves/owls-petpage-code/main/topOfPetPage.txt"
 petPageCSS = requests.get(petPageCSStxt)
@@ -62,7 +62,7 @@ for line in petPageCSS:
 
 
 # reads csv of item values and puts it into html for pet page
-with open(cwd + "/valuecsv.csv", "r") as itemValues:
+with open(os.path.join(cwd, "valuecsv.csv"), "r") as itemValues:
     csvReader = reader(itemValues)
     for row in csvReader:
         line = row[0].split("\t")
