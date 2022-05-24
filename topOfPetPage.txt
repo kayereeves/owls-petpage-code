@@ -292,7 +292,4 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Owls lists the numerical values of items based on trade data reported by the community. We do not update subjectively and cannot modify values without trade reports.</li>
 <li>You can report your trade by mailing a team member or posting on the Owls data board on the NCC.</li>
 <li>Items without values lack values for differing reasons, including lack of data and recency of release. These items are NOT uniform in value or rarity: some are low, high, common, or rare. If you need help with an item that does not have a value listed, please make a value check board and/or contact a /~Owls team member.</li>
-<li>We use American MM/DD for dates.</li><br><br><br><b>LAST UPDATE:</b> <i>May 17, 2022</i>
-
-
-
+<li>We use American MM/DD for dates.</li>
