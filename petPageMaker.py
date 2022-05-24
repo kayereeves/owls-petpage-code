@@ -10,6 +10,7 @@ from csv import reader
 import os
 import requests
 import base64
+from datetime import date
 
 cwd = os.getcwd()
 
@@ -66,6 +67,12 @@ petPageFooter = petPageFooter.text
 # css and header to pet page
 for line in petPageCSS:
     genedCode.write(line)
+
+# get today's date and write it into the code
+today = date.today()
+formattedDate = today.strftime("%B %d, %Y")
+dateString = "<br><br><br><b>LAST UPDATE: </b><i>" + formattedDate + "</i>"
+genedCode.write(dateString)
 
 # helper function
 def writeCode(line):
