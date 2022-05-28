@@ -292,7 +292,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Owls lists the numerical values of items based on trade data reported by the community. We do not update subjectively and cannot modify values without trade reports.</li>
 <li>You can report your trade by mailing a team member or posting on the Owls data board on the NCC.</li>
 <li>Items without values lack values for differing reasons, including lack of data and recency of release. These items are NOT uniform in value or rarity: some are low, high, common, or rare. If you need help with an item that does not have a value listed, please make a value check board and/or contact a /~Owls team member.</li>
-<li>We use American MM/DD for dates.</li><br><br><br><b>LAST UPDATE: </b><i>May 23, 2022</i>
+<li>We use American MM/DD for dates.</li><br><br><br><b>LAST UPDATE: </b><i>May 28, 2022</i>
 
 
 <br><br><br><center><div class="divider"></div></center><br><br><a name="num"></a><br><br><br><h2>num</h2>
@@ -670,7 +670,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Baby Bubble Wand <strong>~</strong> 1-2</li>
 <li>Baby Bubbles Wig <strong>~</strong> 1-2</li>
 <li>Baby Building Blocks Foreground <strong>~</strong> 00 - 00 </li>
-<li>Baby Bun with Heart Headband <strong>~</strong> 00 - 00 </li>
+<li>Baby Bun with Heart Headband <strong>~</strong> 6</li>
 <li>Baby Button Boots <strong>~</strong> 1-2</li>
 <li>Baby Candy Corn Hat <strong>~</strong> 00 - 00 </li>
 <li>Baby Candy Corn Wings <strong>~</strong> 00 - 00 </li>
@@ -696,7 +696,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Baby in a Spaceship Background <strong>~</strong> 2</li>
 <li>Baby in an Easter Basket Background <strong>~</strong> 00 - 00 </li>
 <li>Baby Judge Hog Costume <strong>~</strong> 00 - 00 </li>
-<li>Baby Kadoatie Carriage   <strong>~</strong> 00 - 00 </li>
+<li>Baby Kadoatie Carriage   <strong>~</strong> Baby Bruce KQ Token</li>
 <li>Baby Lady Blurg Umbrella <strong>~</strong> 1-2</li>
 <li>Baby Magical Galaxy Markings <strong>~</strong> 3-5</li>
 <li>Baby Makeup of the Undead <strong>~</strong> 1-2</li>
@@ -956,7 +956,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Big Candle Pillars <strong>~</strong> 00 - 00 </li>
 <li>Big Doll Eyes Contacts <strong>~</strong> 5-8</li>
 <li>Big Fuzzy Boots with Leggings <strong>~</strong> 1-2</li>
-<li>Big Fuzzy Hat Untradeable NC found in Elite Boutique <strong>~</strong> 00 - 00 </li>
+<li>Big Fuzzy Hat Untradeable NC found in Elite Boutique <strong>~</strong> NT</li>
 <li>Big Heart Wig <strong>~</strong> 00 - 00 </li>
 <li>Big Toothed Boots <strong>~</strong> 00 - 00 </li>
 <li>Bigsby Shadingtons Hat <strong>~</strong> 00 - 00 </li>
@@ -1119,7 +1119,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Blue Beanie Bob Wig  <strong>~</strong> buyable</li>
 <li>Blue Blazer & Striped Shirt <strong>~</strong> 00 - 00 </li>
 <li>Blue Christmas Snowflake Arch <strong>~</strong> 00 - 00 </li>
-<li>Blue Cirrus Handheld Plushie   <strong>~</strong> buyable</li>
+<li>Blue Cirrus Handheld Plushie   <strong>~</strong> Cloud Kougra KQ Token</li>
 <li>Blue Crystal String Lights <strong>~</strong> 1-2</li>
 <li>Blue Cuffed Shorts <strong>~</strong> 00 - 00 </li>
 <li>Blue Field Background <strong>~</strong> 4-5</li>
@@ -1129,7 +1129,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Blue Kadoatie Hoodie <strong>~</strong> 00 - 00 </li>
 <li>Blue Ombre Button Shirt <strong>~</strong> 00 - 00 </li>
 <li>Blue Painted Feet <strong>~</strong> 00 - 00 </li>
-<li>Blue Paisley Scarf   <strong>~</strong> buyable</li>
+<li>Blue Paisley Scarf   <strong>~</strong> Blue Elephante KQ Token</li>
 <li>Blue Polka Dot Dress <strong>~</strong> 00 - 00 </li>
 <li>Blue Polka Dot Skirt  <strong>~</strong> buyable</li>
 <li>Blue Roll-Up Trousers <strong>~</strong> 00 - 00 </li>
@@ -1261,13 +1261,13 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Bright Shamrock Scarf <strong>~</strong> 00 - 00 </li>
 <li>Bright Skies Umbrella <strong>~</strong> 00 - 00 </li>
 <li>Bright Snowflake Apron <strong>~</strong> 00 - 00 </li>
-<li>Bright Speckled Parasol   <strong>~</strong> 00 - 00 </li>
+<li>Bright Speckled Parasol   <strong>~</strong> Speckled Bruce KQ Token</li>
 <li>Bright Star and Light Arch <strong>~</strong> 2-3</li>
 <li>Bright Sun Dress <strong>~</strong> 5</li>
 <li>Bright Sun Patterned Wings  <strong>~</strong> 00 - 00 </li>
 <li>Bright Tulip Caplet <strong>~</strong> 00 - 00 </li>
 <li>Bright Yarn and Bells Garland <strong>~</strong> 00 - 00 </li>
-<li>Brightly Coloured Blue Wig   <strong>~</strong> 00 - 00 </li>
+<li>Brightly Coloured Blue Wig   <strong>~</strong> Blue Koi KQ Token</li>
 <li>Brightly Coloured Spring Caplet <strong>~</strong> 00 - 00 </li>
 <li>Brightly Coloured Spring Umbrella <strong>~</strong> 00 - 00 </li>
 <li>Brightly Jewelled Necklace <strong>~</strong> 00 - 00 </li>
@@ -1422,10 +1422,10 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Cake Pop Bouquet <strong>~</strong> 00 - 00 </li>
 <li>Cake Topper Background <strong>~</strong> 3-5</li>
 <li>Calm before the Storm on Lutari Island <strong>~</strong> 00 - 00 </li>
-<li>Camouflage Helmet   <strong>~</strong> 00 - 00 </li>
-<li>Camouflage Tutu and Tights   <strong>~</strong> 00 - 00 </li>
+<li>Camouflage Helmet   <strong>~</strong> Camo Wocky KQ Token</li>
+<li>Camouflage Tutu and Tights   <strong>~</strong> Camo Kougra KQ Token</li>
 <li>Camouflage Vest <strong>~</strong> 00 - 00 </li>
-<li>Camouflaged Tent   <strong>~</strong> 00 - 00 </li>
+<li>Camouflaged Tent   <strong>~</strong> Camo Poogle KQ Token</li>
 <li>Camp Wannamakeagame Cap and Wig <strong>~</strong> 00 - 00 </li>
 <li>Camp Wannamakeagame Uniform <strong>~</strong> 00 - 00 </li>
 <li>Campground Cabin Background <strong>~</strong> 00 - 00 </li>
@@ -2033,7 +2033,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Cotton Candy Making Machine <strong>~</strong> 1-2</li>
 <li>Cotton Candy Sceptre <strong>~</strong> 4-5</li>
 <li>Cotton Candy Swirl Ponytail Wig <strong>~</strong> 00 - 00 </li>
-<li>Cotton Candy Tree   <strong>~</strong> 00 - 00 </li>
+<li>Cotton Candy Tree   <strong>~</strong> Pink Korbat KQ Token</li>
 <li>Cotton Candy Umbrella <strong>~</strong> 10-15</li>
 <li>Cotton Swab Flowers <strong>~</strong> 5-6</li>
 <li>Counting Babaas <strong>~</strong> 00 - 00 </li>
@@ -2142,7 +2142,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Cupcake Headband <strong>~</strong> 00 - 00 </li>
 <li>Cupcake Pyjamas <strong>~</strong> 00 - 00 </li>
 <li>Cupcake Shower <strong>~</strong> 00 - 00 </li>
-<li>Cupcake Skirt Untradeable NC found in Elite Boutique <strong>~</strong> 00 - 00 </li>
+<li>Cupcake Skirt Untradeable NC found in Elite Boutique <strong>~</strong> NT</li>
 <li>Cupcake String Lights <strong>~</strong> 7-8</li>
 <li>Cupcake Wand <strong>~</strong> 00 - 00 </li>
 <li>Cupid Garland <strong>~</strong> 00 - 00 </li>
@@ -2377,7 +2377,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Dazzling Candy Corn Field Background <strong>~</strong> 00 - 00 </li>
 <li>Dazzling Cave Lights <strong>~</strong> 00 - 00 </li>
 <li>Dazzling Emerald Circlet <strong>~</strong> 00 - 00 </li>
-<li>Dazzling Faerie Rainbow   <strong>~</strong> 00 - 00 </li>
+<li>Dazzling Faerie Rainbow   <strong>~</strong> Faerie Aisha KQ Token</li>
 <li>Dazzling Feather Earrings <strong>~</strong> 00 - 00 </li>
 <li>Dazzling Floral Necklace <strong>~</strong> 00 - 00 </li>
 <li>Dazzling Green Clover Stole <strong>~</strong> 00 - 00 </li>
@@ -2387,13 +2387,13 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Dazzling Light Show Hat <strong>~</strong> 00 - 00 </li>
 <li>Dazzling Midnight Wig <strong>~</strong> 00 - 00 </li>
 <li>Dazzling Rainbow Tent <strong>~</strong> 00 - 00 </li>
-<li>Dazzling Rainbow Wig   <strong>~</strong> 00 - 00 </li>
+<li>Dazzling Rainbow Wig   <strong>~</strong> Rainbow Wocky KQ Token</li>
 <li>Dazzling Rosette Party Gown <strong>~</strong> 1-2</li>
 <li>Dazzling Silk Skirt <strong>~</strong> 00 - 00 </li>
 <li>Dazzling Snowflake Wings <strong>~</strong> 00 - 00 </li>
 <li>Dazzling Star Sword  <strong>~</strong> 00 - 00 </li>
 <li>Dazzling Winter Snowflake Mask <strong>~</strong> 00 - 00 </li>
-<li>Dazzling Yellow Leaves   <strong>~</strong> 00 - 00 </li>
+<li>Dazzling Yellow Leaves   <strong>~</strong> Yellow Kougra KQ Token</li>
 <li>Dazzling Yooyu Trousers <strong>~</strong> 00 - 00 </li>
 <li>Dead Flower Petals Trail <strong>~</strong> 00 - 00 </li>
 <li>Dead of the Night Jacket <strong>~</strong> 00 - 00 </li>
@@ -2485,7 +2485,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Delightful Doglefox Purse <strong>~</strong> 00 - 00 </li>
 <li>Delightful Flower Throne Background <strong>~</strong> 00 - 00 </li>
 <li>Delightful Flowering Vines <strong>~</strong> 1-2</li>
-<li>Delightful Heart Lute Untradeable NC found in Elite Boutique <strong>~</strong> 00 - 00 </li>
+<li>Delightful Heart Lute Untradeable NC found in Elite Boutique <strong>~</strong> NT</li>
 <li>Delightful Mug of Hot Cocoa <strong>~</strong> 00 - 00 </li>
 <li>Delina Handheld Plushie  <strong>~</strong> 00 - 00 </li>
 <li>Delina the Crafting Faerie Floating Doll  <strong>~</strong> 00 - 00 </li>
@@ -2545,14 +2545,14 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Dipped in Glitter Body Paint <strong>~</strong> 3-5</li>
 <li>Dirt Patch of the Undead <strong>~</strong> 00 - 00 </li>
 <li>Disco Ball Shower <strong>~</strong> 00 - 00 </li>
-<li>Disco Ball Staff   <strong>~</strong> 00 - 00 </li>
-<li>Disco Ball String Lights   <strong>~</strong> buyable</li>
+<li>Disco Ball Staff   <strong>~</strong> Disco Elephante KQ Token</li>
+<li>Disco Ball String Lights   <strong>~</strong> Disco Chomby KQ Token</li>
 <li>Disco Fever Background <strong>~</strong> 00 - 00 </li>
-<li>Disco Floor Tiles   <strong>~</strong> 00 - 00 </li>
+<li>Disco Floor Tiles   <strong>~</strong> Disco Kiko KQ Token</li>
 <li>Discovery of Darigan Day Background <strong>~</strong> 00 - 00 </li>
 <li>Discovery of Faerieland Day Background <strong>~</strong> 1-2</li>
 <li>Discovery of Krawk Island Day Background <strong>~</strong> 00 - 00 </li>
-<li>Disembodied Cáckling Jhudora Untradeable NC found in Elite Boutique <strong>~</strong> 00 - 00 </li>
+<li>Disembodied Cáckling Jhudora Untradeable NC found in Elite Boutique <strong>~</strong> NT</li>
 <li>Disheveled Brown Wig <strong>~</strong> 1-2</li>
 <li>Disintegrated Top <strong>~</strong> 00 - 00 </li>
 <li>Displeased Tiki Idol Necklace <strong>~</strong> 00 - 00 </li>
@@ -2585,7 +2585,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Dr. Sloth Toy Soldier <strong>~</strong> 00 - 00 </li>
 <li>Dr. Sloth Voodoo Doll <strong>~</strong> 00 - 00 </li>
 <li>Dr. Sloths Infamous Cloak <strong>~</strong> 00 - 00 </li>
-<li>Dr. Sloths Staff Untradeable NC found in Elite Boutique <strong>~</strong> 00 - 00 </li>
+<li>Dr. Sloths Staff Untradeable NC found in Elite Boutique <strong>~</strong> NT</li>
 <li>Dramatic Floral Wig <strong>~</strong> 1-2</li>
 <li>Dramatic Forest Gates Background <strong>~</strong> 3-5</li>
 <li>Dramatic Winter Cape <strong>~</strong> 00 - 00 </li>
@@ -3471,8 +3471,8 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Electric Blue Flower Garland <strong>~</strong> 2-3</li>
 <li>Electric Blue Tights and Boots <strong>~</strong> 00 - 00 </li>
 <li>Electric Blue Trousers <strong>~</strong> 00 - 00 </li>
-<li>Electric Blue Wig   <strong>~</strong> buyable</li>
-<li>Electric Charge Wings   <strong>~</strong> buyable</li>
+<li>Electric Blue Wig   <strong>~</strong> Electric Gelert KQ Token</li>
+<li>Electric Charge Wings   <strong>~</strong> Electric Lupe KQ Token</li>
 <li>Electric Dress <strong>~</strong> 4-5</li>
 <li>Electric Faerie Light Umbrella <strong>~</strong> 00 - 00 </li>
 <li>Electric Storm Background <strong>~</strong> 4</li>
@@ -3492,7 +3492,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Elegant Birthday Ball Wig <strong>~</strong> 00 - 00 </li>
 <li>Elegant Birthday Blouse <strong>~</strong> 4-6</li>
 <li>Elegant Black Feather Hat <strong>~</strong> 00 - 00 </li>
-<li>Elegant Blue Purse   <strong>~</strong> buyable</li>
+<li>Elegant Blue Purse   <strong>~</strong> Blue Acara KQ Token</li>
 <li>Elegant Bone Shrug <strong>~</strong> 00 - 00 </li>
 <li>Elegant Cobrall Dress <strong>~</strong> 00 - 00 </li>
 <li>Elegant Damask Dress <strong>~</strong> 00 - 00 </li>
@@ -3516,7 +3516,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Elegant Ombre Skirt <strong>~</strong> 00 - 00 </li>
 <li>Elegant Pine Cone Staff <strong>~</strong> 00 - 00 </li>
 <li>Elegant Pool Floatie <strong>~</strong> 00 - 00 </li>
-<li>Elegant Spyder Hat Untradeable NC found in Elite Boutique <strong>~</strong> 00 - 00 </li>
+<li>Elegant Spyder Hat Untradeable NC found in Elite Boutique <strong>~</strong> NT</li>
 <li>Elegant Terrace Birthday Background <strong>~</strong> 00 - 00 </li>
 <li>Elegant Valentine Chandelier <strong>~</strong> 00 - 00 </li>
 <li>Elegant Veespa Dress <strong>~</strong> 5</li>
@@ -3585,7 +3585,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Enchanting Water Glade Background <strong>~</strong> 1-2</li>
 <li>Enchanting Wind Chime <strong>~</strong> 00 - 00 </li>
 <li>End of Battle Background <strong>~</strong> 00 - 00 </li>
-<li>End of the Rainbow Beam <strong>~</strong> 3-4-ish</li>
+<li>End of the Rainbow Beam <strong>~</strong> 3-4</li>
 <li>Enter If You Dare Sign <strong>~</strong> 00 - 00 </li>
 <li>Enter the Battle Background <strong>~</strong> 4-6</li>
 <li>Enter the Garden Background <strong>~</strong> 3-4</li>
@@ -3643,7 +3643,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Extra Large Jousting Lance <strong>~</strong> 00 - 00 </li>
 <li>Extra Plaid Scarf <strong>~</strong> 8</li>
 <li>Extra Shiny Red Wig <strong>~</strong> 00 - 00 </li>
-<li>Extra Soft Crochet Boots   <strong>~</strong> buyable</li>
+<li>Extra Soft Crochet Boots   <strong>~</strong> Baby Gelert KQ Token</li>
 <li>Extra Special Gaming Blankie <strong>~</strong> 00 - 00 </li>
 <li>Extravagant Birthday Cake <strong>~</strong> 00 - 00 </li>
 <li>Extravagant Birthday Stage <strong>~</strong> 1-2</li>
@@ -3790,7 +3790,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Fancy Floral Tea Wig <strong>~</strong> 20-25</li>
 <li>Fancy Floral Wig <strong>~</strong> 00 - 00 </li>
 <li>Fancy Flower Bow Tie  <strong>~</strong> buyable</li>
-<li>Fancy Flower Topiary Untradeable NC found in Elite Boutique <strong>~</strong> 00 - 00 </li>
+<li>Fancy Flower Topiary Untradeable NC found in Elite Boutique <strong>~</strong> NT</li>
 <li>Fancy Fruit Hat <strong>~</strong> 00 - 00 </li>
 <li>Fancy Furry Purse <strong>~</strong> 00 - 00 </li>
 <li>Fancy Gemstone Tiara <strong>~</strong> 00 - 00 </li>
@@ -3886,7 +3886,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Feet in the Clouds Foreground <strong>~</strong> 10-12</li>
 <li>Felt and Buttons Jumper <strong>~</strong> 8-10</li>
 <li>Fence of Arrows <strong>~</strong> 00 - 00 </li>
-<li>Fence of Flowers Foreground   <strong>~</strong> buyable</li>
+<li>Fence of Flowers Foreground   <strong>~</strong> Yellow Flotsam KQ Token</li>
 <li>Ferocious Battle Claw <strong>~</strong> 00 - 00 </li>
 <li>Ferocious Jaws Contacts <strong>~</strong> 00 - 00 </li>
 <li>Ferocious Negg Bites <strong>~</strong> 00 - 00 </li>
@@ -3962,7 +3962,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Fiery Red Wig <strong>~</strong> 00 - 00 </li>
 <li>Fiery Robe <strong>~</strong> 00 - 00 </li>
 <li>Fiery Sun Contacts <strong>~</strong> 3-4</li>
-<li>Fighting Staff Untradeable NC found in Elite Boutique <strong>~</strong> 00 - 00 </li>
+<li>Fighting Staff Untradeable NC found in Elite Boutique <strong>~</strong> NT</li>
 <li>Fighting Top and Tights <strong>~</strong> 00 - 00 </li>
 <li>Figure Skating Cuff Bracelet <strong>~</strong> 2-3</li>
 <li>Figure Skating Dress <strong>~</strong> 00 - 00 </li>
@@ -4005,7 +4005,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Flame Torch <strong>~</strong> 00 - 00 </li>
 <li>Flaming Chest of Pirate Gold <strong>~</strong> 00 - 00 </li>
 <li>Flaming Orb <strong>~</strong> 2-4</li>
-<li>Flaming Star Globe Wand   <strong>~</strong> buyable</li>
+<li>Flaming Star Globe Wand   <strong>~</strong> Starry Flotsam KQ Token</li>
 <li>Flaming Tiki Torches <strong>~</strong> 00 - 00 </li>
 <li>Flaming Tree Trinket <strong>~</strong> 00 - 00 </li>
 <li>Flaming Yooyubálls Foreground <strong>~</strong> 00 - 00 </li>
@@ -4032,7 +4032,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Floating Flowers Foreground <strong>~</strong> 00 - 00 </li>
 <li>Floating Fyora Faerie Doll  <strong>~</strong> buyable</li>
 <li>Floating Grey Faerie Doll  <strong>~</strong> buyable</li>
-<li>Floating Happiness Faerie Doll Untradeable NC found in Elite Boutique <strong>~</strong> 00 - 00 </li>
+<li>Floating Happiness Faerie Doll Untradeable NC found in Elite Boutique <strong>~</strong> NT</li>
 <li>Floating Haunted Locker <strong>~</strong> 00 - 00 </li>
 <li>Floating Headless Space Faerie Doll <strong>~</strong> 00 - 00 </li>
 <li>Floating Heart Shower <strong>~</strong> 00 - 00 </li>
@@ -4116,7 +4116,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Flower Beard <strong>~</strong> 00 - 00 </li>
 <li>Flower Beauty Mark <strong>~</strong> 00 - 00 </li>
 <li>Flower Bed Background  <strong>~</strong> buyable</li>
-<li>Flower Belt Untradeable NC found in Elite Boutique <strong>~</strong> 00 - 00 </li>
+<li>Flower Belt Untradeable NC found in Elite Boutique <strong>~</strong> NT</li>
 <li>Flower Blossom Dress <strong>~</strong> 00 - 00 </li>
 <li>Flower Bud Vase Foreground <strong>~</strong> 00 - 00 </li>
 <li>Flower Camouflage Facepaint <strong>~</strong> 00 - 00 </li>
@@ -4201,7 +4201,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Flowery Embroidered Top <strong>~</strong> 00 - 00 </li>
 <li>Flowery Forest Background <strong>~</strong> 3-4</li>
 <li>Flowery Pirate Bandana Wig <strong>~</strong> 00 - 00 </li>
-<li>Flowery Red Hat   <strong>~</strong> buyable</li>
+<li>Flowery Red Hat   <strong>~</strong> Red Acara KQ Token</li>
 <li>Flowery Ribbon Wand <strong>~</strong> 00 - 00 </li>
 <li>Flowery Skull Skirt <strong>~</strong> 00 - 00 </li>
 <li>Flowery Teal Dress <strong>~</strong> 00 - 00 </li>
@@ -4407,7 +4407,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Garden Festival Lantern Garland <strong>~</strong> 2-3</li>
 <li>Garden Flower Dress <strong>~</strong> 00 - 00 </li>
 <li>Garden Gate Background <strong>~</strong> 00 - 00 </li>
-<li>Garden Gate Foreground Untradeable NC found in Elite Boutique <strong>~</strong> 00 - 00 </li>
+<li>Garden Gate Foreground Untradeable NC found in Elite Boutique <strong>~</strong> NT</li>
 <li>Garden Globe Staff <strong>~</strong> 00 - 00 </li>
 <li>Garden Gnomes Background <strong>~</strong> 00 - 00 </li>
 <li>Garden Patio Tea Party <strong>~</strong> 00 - 00 </li>
@@ -4709,7 +4709,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Golden Damask Sword <strong>~</strong> 4-5</li>
 <li>Golden Dress <strong>~</strong> 00 - 00 </li>
 <li>Golden Elephante Mask <strong>~</strong> 00 - 00 </li>
-<li>Golden Elite Garland Untradeable NC found in Elite Boutique <strong>~</strong> 00 - 00 </li>
+<li>Golden Elite Garland Untradeable NC found in Elite Boutique <strong>~</strong> NT</li>
 <li>Golden Feathered Top <strong>~</strong> 00 - 00 </li>
 <li>Golden Flower Heels <strong>~</strong> 00 - 00 </li>
 <li>Golden Flower Necklace <strong>~</strong> 00 - 00 </li>
@@ -4766,7 +4766,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Golden Tunic <strong>~</strong> 5-7</li>
 <li>Golden Tuxedo <strong>~</strong> 1-2</li>
 <li>Golden Underwater Wig  <strong>~</strong> buyable</li>
-<li>Golden Vines Garland   <strong>~</strong> buyable</li>
+<li>Golden Vines Garland   <strong>~</strong> Yellow Xweetok KQ Token</li>
 <li>Golden Wall Hanging Decor <strong>~</strong> 1-2</li>
 <li>Golden Wig <strong>~</strong> 1-2</li>
 <li>Golden Winding Necklace <strong>~</strong> 00 - 00 </li>
@@ -4891,7 +4891,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Green Glitter Shower <strong>~</strong> 4-5</li>
 <li>Green Hat Auburn Wig  <strong>~</strong> buyable</li>
 <li>Green Ice Wings <strong>~</strong> 00 - 00 </li>
-<li>Green Island Flowers Garland   <strong>~</strong> buyable</li>
+<li>Green Island Flowers Garland   <strong>~</strong> Island Bruce KQ Token</li>
 <li>Green Island Hat <strong>~</strong> 00 - 00 </li>
 <li>Green Knot Hair Clip <strong>~</strong> 00 - 00 </li>
 <li>Green Knot Wings <strong>~</strong> 00 - 00 </li>
@@ -4916,7 +4916,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Green Tribal Tattoo <strong>~</strong> 00 - 00 </li>
 <li>Green Velvet Holiday Cap and Wig <strong>~</strong> 1-2</li>
 <li>Green Velvet Skirt  <strong>~</strong> buyable</li>
-<li>Green Vine Clearing Background   <strong>~</strong> buyable</li>
+<li>Green Vine Clearing Background   <strong>~</strong> Green Kacheek KQ Token</li>
 <li>Green Warlock Battle Wings <strong>~</strong> 00 - 00 </li>
 <li>Green Warlock Wig <strong>~</strong> 00 - 00 </li>
 <li>Green Woodland Path Background <strong>~</strong> 00 - 00 </li>
@@ -5580,7 +5580,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Jewelled Black Lace Shirt <strong>~</strong> 00 - 00 </li>
 <li>Jewelled Chain Wig <strong>~</strong> 1-2</li>
 <li>Jewelled Damask Necklace <strong>~</strong> 00 - 00 </li>
-<li>Jewelled Green Shoes   <strong>~</strong> buyable</li>
+<li>Jewelled Green Shoes   <strong>~</strong> Green Grundo KQ Token</li>
 <li>Jewelled Heart Pendant Necklace <strong>~</strong> 00 - 00 </li>
 <li>Jewelled Mushroom Umbrella <strong>~</strong> 00 - 00 </li>
 <li>Jewelled Petpet Mask <strong>~</strong> 00 - 00 </li>
@@ -5663,7 +5663,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Kau Defender Collectors Belt and Tights <strong>~</strong> 00 - 00 </li>
 <li>Kau Fortune Tellers Collectors Blouse <strong>~</strong> 00 - 00 </li>
 <li>Kauvara Costume Hat <strong>~</strong> 00 - 00 </li>
-<li>Kauvara Shirt & Cape   <strong>~</strong> buyable</li>
+<li>Kauvara Shirt & Cape   <strong>~</strong> Kauvara KQ Token</li>
 <li>Kazeriu Cupcakes Foreground <strong>~</strong> 3</li>
 <li>Kell Collectors Wig <strong>~</strong> 00 - 00 </li>
 <li>Kelp Forest Path Background <strong>~</strong> 00 - 00 </li>
@@ -5750,7 +5750,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Knotted String Lights <strong>~</strong> 00 - 00 </li>
 <li>Knotted Yarn Garland <strong>~</strong> 00 - 00 </li>
 <li>Kookith Necklace <strong>~</strong> 00 - 00 </li>
-<li>Korbat Tattoo Untradeable NC found in Elite Boutique <strong>~</strong> 00 - 00 </li>
+<li>Korbat Tattoo Untradeable NC found in Elite Boutique <strong>~</strong> NT</li>
 <li>Krawk Island Adventure Sword <strong>~</strong> 00 - 00 </li>
 <li>Krawk Island Altador Cup Jersey <strong>~</strong> 00 - 00 </li>
 <li>Krawk Island Altador Cup Locker Room Background <strong>~</strong> 00 - 00 </li>
@@ -5840,7 +5840,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Lace Tutu and Tights <strong>~</strong> 00 - 00 </li>
 <li>Lace Up Boots <strong>~</strong> 00 - 00 </li>
 <li>Laced with Diamonds Wig <strong>~</strong> 00 - 00 </li>
-<li>Laced-up Spring Shoes Untradeable NC found in Elite Boutique <strong>~</strong> 00 - 00 </li>
+<li>Laced-up Spring Shoes Untradeable NC found in Elite Boutique <strong>~</strong> NT</li>
 <li>Lacy Cobweb Wings <strong>~</strong> 1-2</li>
 <li>Lacy Skeleton Gloves <strong>~</strong> 00 - 00 </li>
 <li>Lacy White Summer Dress <strong>~</strong> 00 - 00 </li>
@@ -5909,7 +5909,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Layered Holiday Tops <strong>~</strong> 00 - 00 </li>
 <li>Layered Jelly Skirt <strong>~</strong> 00 - 00 </li>
 <li>Layered Moltaran Skirt <strong>~</strong> 00 - 00 </li>
-<li>Layered Orange Wig   <strong>~</strong> buyable</li>
+<li>Layered Orange Wig   <strong>~</strong> Orange Kougra KQ Token</li>
 <li>Layered Pastel Wig <strong>~</strong> 00 - 00 </li>
 <li>Layered Pendant Necklaces <strong>~</strong> 1-2</li>
 <li>Layered Pirate Dress <strong>~</strong> 00 - 00 </li>
@@ -5920,7 +5920,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Leader of War Throne <strong>~</strong> 00 - 00 </li>
 <li>Leafy Forest Jacket <strong>~</strong> 00 - 00 </li>
 <li>Leafy Green Cape <strong>~</strong> 1-2</li>
-<li>Leafy Green Tree   <strong>~</strong> buyable</li>
+<li>Leafy Green Tree   <strong>~</strong> Green Kau KQ Token</li>
 <li>Leafy Headdress <strong>~</strong> 00 - 00 </li>
 <li>Leafy Pinwheel <strong>~</strong> 00 - 00 </li>
 <li>Leafy Seedpod Cap and Wig <strong>~</strong> 1-2</li>
@@ -6116,7 +6116,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Love-Torn Zombie Gloves <strong>~</strong> 00 - 00 </li>
 <li>Lovely Berry Blush Makeup <strong>~</strong> 4-5</li>
 <li>Lovely Enchanting Trellis <strong>~</strong> 00 - 00 </li>
-<li>Lovely Flower Assortment Foreground   <strong>~</strong> buyable</li>
+<li>Lovely Flower Assortment Foreground   <strong>~</strong> Split Grundo KQ Token</li>
 <li>Lovely Flower Corsage <strong>~</strong> 00 - 00 </li>
 <li>Lovely Heart Arbour <strong>~</strong> 1-2</li>
 <li>Lovely Heart Balloons <strong>~</strong> 1-2</li>
@@ -6174,7 +6174,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Luminescent Faerie Wings <strong>~</strong> 00 - 00 </li>
 <li>Luminous Jacket <strong>~</strong> 00 - 00 </li>
 <li>Luminous Lighted Pastel Wig <strong>~</strong> 1-2</li>
-<li>Luminous Pink Heart Garland   <strong>~</strong> buyable</li>
+<li>Luminous Pink Heart Garland   <strong>~</strong> Pink Elephante KQ Token</li>
 <li>Luminous Pumpkin String Lights <strong>~</strong> 00 - 00 </li>
 <li>Luminous Seashell Staff <strong>~</strong> 00 - 00 </li>
 <li>Lunar Fountain <strong>~</strong> 1-2</li>
@@ -6934,7 +6934,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Mr. Chuckles Make-Up Kit <strong>~</strong> 1-2</li>
 <li>Mr. Krawley Collectors Vest and Tie <strong>~</strong> 00 - 00 </li>
 <li>Mr. Scarys Hideout Collectors Background <strong>~</strong> 00 - 00 </li>
-<li>Multi-Coloured Cloud Garland   <strong>~</strong> 00 - 00 </li>
+<li>Multi-Coloured Cloud Garland   <strong>~</strong> Cloud Moehog KQ Token</li>
 <li>Multi-Coloured Gourd Foreground <strong>~</strong> 00 - 00 </li>
 <li>Multi-Coloured Sparkler <strong>~</strong> 00 - 00 </li>
 <li>Multi-Coloured Spring Arbor <strong>~</strong> 00 - 00 </li>
@@ -7063,7 +7063,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Mystic Makeup <strong>~</strong> 5</li>
 <li>Mystic Topaz Wings <strong>~</strong> 00 - 00 </li>
 <li>Mystical Bone Dress <strong>~</strong> 00 - 00 </li>
-<li>Mystical Cloud Tree   <strong>~</strong> buyable</li>
+<li>Mystical Cloud Tree   <strong>~</strong> Cloud Flotsam KQ Token</li>
 <li>Mystical Daisy <strong>~</strong> 00 - 00 </li>
 <li>Mystical Forest Entryway Background <strong>~</strong> 12-15</li>
 <li>Mystical Green Wand <strong>~</strong> 00 - 00 </li>
@@ -7142,13 +7142,13 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Neon Twinkle Tree <strong>~</strong> 00 - 00 </li>
 <li>Neopet Shaped Topiaries <strong>~</strong> 00 - 00 </li>
 <li>Neopet Shop Moustache <strong>~</strong> 10-15</li>
-<li>Neopets Circle Background Untradeable NC found in Elite Boutique <strong>~</strong> 00 - 00 </li>
+<li>Neopets Circle Background Untradeable NC found in Elite Boutique <strong>~</strong> NT</li>
 <li>Neopets Holiday Gift Tag Background <strong>~</strong> 00 - 00 </li>
-<li>Neopets Marketplace Background Untradeable NC found in Elite Boutique <strong>~</strong> 00 - 00 </li>
+<li>Neopets Marketplace Background Untradeable NC found in Elite Boutique <strong>~</strong> NT</li>
 <li>Neopia in Space Background <strong>~</strong> 00 - 00 </li>
 <li>Neopia Peripheral Background <strong>~</strong> 00 - 00 </li>
 <li>Neopian Battle Shield <strong>~</strong> 00 - 00 </li>
-<li>Neopian Clouds Garland   <strong>~</strong> buyable</li>
+<li>Neopian Clouds Garland   <strong>~</strong> Cloud Meerca KQ Token</li>
 <li>Neopian Explorer Trunks <strong>~</strong> 00 - 00 </li>
 <li>Neopian Mobile <strong>~</strong> 00 - 00 </li>
 <li>Neopian Petpet Shop Collectors Wig <strong>~</strong> 00 - 00 </li>
@@ -7218,7 +7218,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>New Years on the Hidden Tower <strong>~</strong> 1-2</li>
 <li>New Years on the SS Primella Background <strong>~</strong> 00 - 00 </li>
 <li>New Years Sparkler Shower <strong>~</strong> 2-3</li>
-<li>News Reel Background Untradeable NC found in Elite Boutique <strong>~</strong> 00 - 00 </li>
+<li>News Reel Background Untradeable NC found in Elite Boutique <strong>~</strong> NT</li>
 <li>Newsroom Desk Background <strong>~</strong> 00 - 00 </li>
 <li>Nibbling Snowbunny <strong>~</strong> 00 - 00 </li>
 <li>Night & Day Background <strong>~</strong> 00 - 00 </li>
@@ -7390,7 +7390,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Ornate Ormolu Chandelier <strong>~</strong> 00 - 00 </li>
 <li>Ornate Peach Party Dress <strong>~</strong> 00 - 00 </li>
 <li>Ornate Pirate Parasol <strong>~</strong> 00 - 00 </li>
-<li>Ornate Rattle Staff   <strong>~</strong> buyable</li>
+<li>Ornate Rattle Staff   <strong>~</strong> Baby Aisha KQ Token</li>
 <li>Ornate Shell Cuffs <strong>~</strong> 1-2</li>
 <li>Ornate Shenkuu Lantern <strong>~</strong> 00 - 00 </li>
 <li>Ornate Silver Helmet <strong>~</strong> 00 - 00 </li>
@@ -7401,7 +7401,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Ornate Valentine Garland <strong>~</strong> 1-2</li>
 <li>Ornate Wanderer Wagon <strong>~</strong> 1-2</li>
 <li>Ornate Wooden Wings <strong>~</strong> 00 - 00 </li>
-<li>Ornate Wrought Iron Fence   <strong>~</strong> buyable</li>
+<li>Ornate Wrought Iron Fence   <strong>~</strong> Red Ixi KQ Token</li>
 <li>Orrery Staff <strong>~</strong> 00 - 00 </li>
 <li>Osiris Vase Shirt <strong>~</strong> 00 - 00 </li>
 <li>Ostentatious Masquerade Mask <strong>~</strong> 00 - 00 </li>
@@ -7428,7 +7428,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Oversized Nest of Eggs <strong>~</strong> 00 - 00 </li>
 <li>Oversized Paint Brush <strong>~</strong> 00 - 00 </li>
 <li>Oversized Patchwork Handbag <strong>~</strong> 00 - 00 </li>
-<li>Oversized Robotic Eyes   <strong>~</strong> buyable</li>
+<li>Oversized Robotic Eyes   <strong>~</strong> Robot Mynci KQ Token</li>
 <li>Oversized Single Flower <strong>~</strong> 00 - 00 </li>
 <li>Oversized Squishable Yooyu <strong>~</strong> 00 - 00 </li>
 <li>Overstuffed Dr. Sloth Handheld Plushie <strong>~</strong> 00 - 00 </li>
@@ -7556,7 +7556,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Patterned Lamp Garland <strong>~</strong> 00 - 00 </li>
 <li>Patterned Leaves Potted Plant <strong>~</strong> 00 - 00 </li>
 <li>Patterned Poncho <strong>~</strong> 1-2</li>
-<li>Patterned Shadows Background   <strong>~</strong> buyable</li>
+<li>Patterned Shadows Background   <strong>~</strong> Shadow Shoyru KQ Token</li>
 <li>Patterned Tunic <strong>~</strong> 00 - 00 </li>
 <li>Patterned Wrap Shirt <strong>~</strong> 00 - 00 </li>
 <li>Paw Print Ferris Wheel <strong>~</strong> 00 - 00 </li>
@@ -7628,7 +7628,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Phantom Carriage <strong>~</strong> 00 - 00 </li>
 <li>Phantom of the Background <strong>~</strong> 25</li>
 <li>Philosophers Wig <strong>~</strong> 2-4</li>
-<li>Photo of Me Background Untradeable NC found in Elite Boutique <strong>~</strong> 00 - 00 </li>
+<li>Photo of Me Background Untradeable NC found in Elite Boutique <strong>~</strong> NT</li>
 <li>Picket Fence Handbag <strong>~</strong> 4-6</li>
 <li>Picnic Skirt <strong>~</strong> 00 - 00 </li>
 <li>Picnic Thought Bubble <strong>~</strong> 00 - 00 </li>
@@ -7668,7 +7668,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Pink Heart Hot Air Balloon <strong>~</strong> 00 - 00 </li>
 <li>Pink Heart Overall Dress <strong>~</strong> 1-2</li>
 <li>Pink Hot Chocolate Cart <strong>~</strong> 1-2</li>
-<li>Pink Kadoatie Bicycle   <strong>~</strong> buyable</li>
+<li>Pink Kadoatie Bicycle   <strong>~</strong> Pink Bruce KQ Token</li>
 <li>Pink Knitted Cardigan <strong>~</strong> 2</li>
 <li>Pink Lace Parasol  <strong>~</strong> buyable</li>
 <li>Pink Lace Tent Background <strong>~</strong> 1-2</li>
@@ -7684,19 +7684,19 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Pink Plaid Coat  <strong>~</strong> buyable</li>
 <li>Pink Retro Radio <strong>~</strong> 1-2</li>
 <li>Pink Sands Background <strong>~</strong> 2-3</li>
-<li>Pink Shooting Star Wand   <strong>~</strong> buyable</li>
+<li>Pink Shooting Star Wand   <strong>~</strong> Pink Quiggle KQ Token</li>
 <li>Pink Shorts with Gold Belt <strong>~</strong> 00 - 00 </li>
 <li>Pink Springy Fan <strong>~</strong> 00 - 00 </li>
 <li>Pink Strawberry Plushie Garland <strong>~</strong> 1-2</li>
-<li>Pink Stripe Hooded Cape   <strong>~</strong> buyable</li>
+<li>Pink Stripe Hooded Cape   <strong>~</strong> Striped Cybunny KQ Token</li>
 <li>Pink Stylin Beanie <strong>~</strong> 00 - 00 </li>
 <li>Pink Sunglasses  <strong>~</strong> buyable</li>
 <li>Pink Tasu Flats <strong>~</strong> 00 - 00 </li>
 <li>Pink Toy Hoop <strong>~</strong> 00 - 00 </li>
-<li>Pink Travelling Caravan   <strong>~</strong> buyable</li>
+<li>Pink Travelling Caravan   <strong>~</strong> Pink Chomby KQ Token</li>
 <li>Pink Tree of Hearts <strong>~</strong> 00 - 00 </li>
 <li>Pink Valentine Crown Wig <strong>~</strong> 00 - 00 </li>
-<li>Pink Willow Tree Background   <strong>~</strong> buyable</li>
+<li>Pink Willow Tree Background   <strong>~</strong> Pink Cybunny KQ Token</li>
 <li>Pink Winter Boots <strong>~</strong> 00 - 00 </li>
 <li>Pink Winter Sweater <strong>~</strong> 00 - 00 </li>
 <li>Pins and Paper Necklace <strong>~</strong> 8-10</li>
@@ -7755,7 +7755,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Plush Heart Scarf <strong>~</strong> 00 - 00 </li>
 <li>Plush Heart Wings  <strong>~</strong> buyable</li>
 <li>Plush Nuranna Purse <strong>~</strong> 00 - 00 </li>
-<li>Plush Patchwork Umbrella   <strong>~</strong> buyable</li>
+<li>Plush Patchwork Umbrella   <strong>~</strong> Plushie Jubjub KQ Token</li>
 <li>Plush Pet Bed <strong>~</strong> 1-2</li>
 <li>Plush Purple Velvet Trousers <strong>~</strong> 00 - 00 </li>
 <li>Plush Purple Velvet Tunic <strong>~</strong> 00 - 00 </li>
@@ -7767,7 +7767,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Plushie Christmas BG <strong>~</strong> 00 - 00 </li>
 <li>Plushie Lolly Wand <strong>~</strong> 3-5</li>
 <li>Plushie Organizer <strong>~</strong> 00 - 00 </li>
-<li>Plushie Patchwork Wings   <strong>~</strong> buyable</li>
+<li>Plushie Patchwork Wings   <strong>~</strong> Plushie Mynci KQ Token</li>
 <li>Plushie Picnic Spread <strong>~</strong> 1-2</li>
 <li>Plushie Slorg Shower <strong>~</strong> 00 - 00 </li>
 <li>Plushie Whoot Balloon Bouquet <strong>~</strong> 00 - 00 </li>
@@ -7832,7 +7832,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Popping Bubble Gum <strong>~</strong> 8</li>
 <li>Popping Water Balloon Garland <strong>~</strong> 1-2</li>
 <li>Poppy Foreground <strong>~</strong> 00 - 00 </li>
-<li>Poptart Ventriloquist Dummy Untradeable NC found in Elite Boutique <strong>~</strong> 00 - 00 </li>
+<li>Poptart Ventriloquist Dummy Untradeable NC found in Elite Boutique <strong>~</strong> NT</li>
 <li>Portable Pot of Gold <strong>~</strong> 00 - 00 </li>
 <li>Portal to the Unknown <strong>~</strong> 00 - 00 </li>
 <li>Posh Dress Shoes <strong>~</strong> 00 - 00 </li>
@@ -7986,12 +7986,12 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Pretty Blue Plaid Skirt <strong>~</strong> 00 - 00 </li>
 <li>Pretty Chef Bonnet <strong>~</strong> 00 - 00 </li>
 <li>Pretty Dandelion Bouquet <strong>~</strong> 00 - 00 </li>
-<li>Pretty Dark Wig Untradeable NC found in Elite Boutique <strong>~</strong> 00 - 00 </li>
+<li>Pretty Dark Wig Untradeable NC found in Elite Boutique <strong>~</strong> NT</li>
 <li>Pretty Fall Cardigan <strong>~</strong> 2-4</li>
 <li>Pretty Floral Pomanders <strong>~</strong> 00 - 00 </li>
 <li>Pretty Flower Easter Coat <strong>~</strong> 00 - 00 </li>
 <li>Pretty Flower Headband  <strong>~</strong> buyable</li>
-<li>Pretty Flower Light   <strong>~</strong> buyable</li>
+<li>Pretty Flower Light   <strong>~</strong> Faerie Acara KQ Token</li>
 <li>Pretty Flower Purse <strong>~</strong> 00 - 00 </li>
 <li>Pretty Gardening Apron <strong>~</strong> 00 - 00 </li>
 <li>Pretty Green Faerie Shirt <strong>~</strong> 00 - 00 </li>
@@ -8011,7 +8011,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Pretty Pink Heart Dress <strong>~</strong> 3-4</li>
 <li>Pretty Pink Wig <strong>~</strong> 00 - 00 </li>
 <li>Pretty Plaid Shoes <strong>~</strong> 00 - 00 </li>
-<li>Pretty Poinsettia Purse Untradeable NC found in Elite Boutique <strong>~</strong> 00 - 00 </li>
+<li>Pretty Poinsettia Purse Untradeable NC found in Elite Boutique <strong>~</strong> NT</li>
 <li>Pretty Poinsettia Trees <strong>~</strong> 00 - 00 </li>
 <li>Pretty Pointy Hat <strong>~</strong> 00 - 00 </li>
 <li>Pretty Pumpkins Foreground <strong>~</strong> 1-2</li>
@@ -8065,7 +8065,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Puffy Orange Vest <strong>~</strong> 1-2</li>
 <li>Puffy Snowsuit <strong>~</strong> 00 - 00 </li>
 <li>Puffy Vest and Gingham Shirt  <strong>~</strong> buyable</li>
-<li>Pull Along Toy Cannon Untradeable NC found in Elite Boutique <strong>~</strong> 00 - 00 </li>
+<li>Pull Along Toy Cannon Untradeable NC found in Elite Boutique <strong>~</strong> NT</li>
 <li>Pulsing Brain Tree Hat <strong>~</strong> 00 - 00 </li>
 <li>Pulsing Mutant Vein Markings <strong>~</strong> 00 - 00 </li>
 <li>Pumped Up Yooyus <strong>~</strong> 00 - 00 </li>
@@ -8104,10 +8104,10 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Purple Flower Ball Staff  <strong>~</strong> buyable</li>
 <li>Purple Flower Embroidiery Dress <strong>~</strong> 00 - 00 </li>
 <li>Purple Flowering Vine Wings <strong>~</strong> 00 - 00 </li>
-<li>Purple Flowers Foreground   <strong>~</strong> buyable</li>
+<li>Purple Flowers Foreground   <strong>~</strong> Purple Kau KQ Token</li>
 <li>Purple Grundo Flag <strong>~</strong> 00 - 00 </li>
 <li>Purple Half Up Wig <strong>~</strong> 00 - 00 </li>
-<li>Purple Highlight Bob Wig   <strong>~</strong> buyable</li>
+<li>Purple Highlight Bob Wig   <strong>~</strong> Purple Kiko KQ Token</li>
 <li>Purple Hoop Skirt <strong>~</strong> 00 - 00 </li>
 <li>Purple Monster Face Paint <strong>~</strong> 00 - 00 </li>
 <li>Purple Niptor Contacts <strong>~</strong> 1-2</li>
@@ -8122,7 +8122,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Purple Spyder Web Mask <strong>~</strong> 00 - 00 </li>
 <li>Purple String Mittens <strong>~</strong> 00 - 00 </li>
 <li>Purple Stripe Night Shirt <strong>~</strong> 00 - 00 </li>
-<li>Purple Velvet Curtains   <strong>~</strong> buyable</li>
+<li>Purple Velvet Curtains   <strong>~</strong> Faerie Ixi KQ Token</li>
 <li>Purple Warlock Battle Wings <strong>~</strong> 00 - 00 </li>
 <li>Putrid Green Face Paint <strong>~</strong> 00 - 00 </li>
 <li>PVC Pipe Flower Foreground <strong>~</strong> 00 - 00 </li>
@@ -8162,7 +8162,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Quick-Change El Picklesaur <strong>~</strong> 00 - 00 </li>
 <li>Quiet Beach Path Background <strong>~</strong> 8-12</li>
 <li>Quilled Paper Heart Trinket <strong>~</strong> 00 - 00 </li>
-<li>Quilted Brown Boots   <strong>~</strong> buyable</li>
+<li>Quilted Brown Boots   <strong>~</strong> Brown Uni KQ Token</li>
 <li>Quilted Dress with Trim <strong>~</strong> 00 - 00 </li>
 <li>Quilted Jacket <strong>~</strong> 00 - 00 </li>
 <li>Quilted Zippers Background <strong>~</strong> 00 - 00 </li>
@@ -8243,7 +8243,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Rainbow Stone Path <strong>~</strong> 00 - 00 </li>
 <li>Rainbow Striped Vest <strong>~</strong> 00 - 00 </li>
 <li>Rainbow Summer Treats <strong>~</strong> 00 - 00 </li>
-<li>Rainbow Sunglasses   <strong>~</strong> buyable</li>
+<li>Rainbow Sunglasses   <strong>~</strong> Rainbow Blumaroo KQ Token</li>
 <li>Rainbow Sunset Background <strong>~</strong> 00 - 00 </li>
 <li>Rainbow Tears Facepaint  <strong>~</strong> buyable</li>
 <li>Rainbow Tiara <strong>~</strong> 00 - 00 </li>
@@ -8291,7 +8291,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Red Contacts <strong>~</strong> 00 - 00 </li>
 <li>Red Desert Dunes <strong>~</strong> 1-2</li>
 <li>Red Dress With Wooden Belt <strong>~</strong> 00 - 00 </li>
-<li>Red Eye Patch Mask   <strong>~</strong> buyable</li>
+<li>Red Eye Patch Mask   <strong>~</strong> Red Scorchio KQ Token</li>
 <li>Red Feather Valentine Wings <strong>~</strong> 00 - 00 </li>
 <li>Red Gingham Skirt <strong>~</strong> 00 - 00 </li>
 <li>Red Heart Earmuffs <strong>~</strong> 00 - 00 </li>
@@ -8305,7 +8305,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Red Polka Dot Shirt <strong>~</strong> 00 - 00 </li>
 <li>Red Polka Dot Skirt <strong>~</strong> 00 - 00 </li>
 <li>Red Poppy Field Background <strong>~</strong> 3-4</li>
-<li>Red Pteri Handheld Plushie   <strong>~</strong> buyable</li>
+<li>Red Pteri Handheld Plushie   <strong>~</strong> Red Pteri KQ Token</li>
 <li>Red Ribbon Braided Wig <strong>~</strong> 1-2</li>
 <li>Red Ribbon Wig <strong>~</strong> 00 - 00 </li>
 <li>Red Ruffle Apron Dress <strong>~</strong> 00 - 00 </li>
@@ -8320,7 +8320,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Red Wagon Background <strong>~</strong> 00 - 00 </li>
 <li>Red Wanderer Skirt <strong>~</strong> 00 - 00 </li>
 <li>Red Warlock Battle Wings <strong>~</strong> 00 - 00 </li>
-<li>Red with White Polkadot Umbrella   <strong>~</strong> buyable</li>
+<li>Red with White Polkadot Umbrella   <strong>~</strong> Red Uni KQ Token</li>
 <li>Reddish Braided Wig <strong>~</strong> 00 - 00 </li>
 <li>Refashioned Denim Top  <strong>~</strong> buyable</li>
 <li>Referee Smasher <strong>~</strong> 00 - 00 </li>
@@ -8354,7 +8354,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Relaxing Spa Background <strong>~</strong> 00 - 00 </li>
 <li>Release The Bugs Markings <strong>~</strong> 00 - 00 </li>
 <li>Remarkable Restoratives Collectors Counter <strong>~</strong> 00 - 00 </li>
-<li>Remember When Thought Bubble Untradeable NC found in Elite Boutique <strong>~</strong> 00 - 00 </li>
+<li>Remember When Thought Bubble Untradeable NC found in Elite Boutique <strong>~</strong> NT</li>
 <li>Respectable Shirt and Waistcoat <strong>~</strong> 00 - 00 </li>
 <li>Resplendent Wings <strong>~</strong> 1-2</li>
 <li>Rest In Peace Wreath Garland <strong>~</strong> 00 - 00 </li>
@@ -8385,8 +8385,8 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Robot Destruction Background <strong>~</strong> 00 - 00 </li>
 <li>Robot Outfit <strong>~</strong> 00 - 00 </li>
 <li>Robot Petpet Mobile <strong>~</strong> 00 - 00 </li>
-<li>Robot Petpet Nesting Dolls   <strong>~</strong> buyable</li>
-<li>Robotic Wings   <strong>~</strong> buyable</li>
+<li>Robot Petpet Nesting Dolls   <strong>~</strong> Robot Jubjub KQ Token</li>
+<li>Robotic Wings   <strong>~</strong> Robot Kacheek KQ Token</li>
 <li>Rock Band Tour Bus Background <strong>~</strong> 2</li>
 <li>Rock Candy Staff <strong>~</strong> 00 - 00 </li>
 <li>Rock n Roll Drum Set <strong>~</strong> 1-2</li>
@@ -8504,7 +8504,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Royal Qasalan Cloak <strong>~</strong> 00 - 00 </li>
 <li>Royal Velvet Wings <strong>~</strong> 00 - 00 </li>
 <li>Rubber Ducky & Bubbles Mobile <strong>~</strong> 00 - 00 </li>
-<li>Rubber Mallard Pond Foreground   <strong>~</strong> buyable</li>
+<li>Rubber Mallard Pond Foreground   <strong>~</strong> Yellow Usul KQ Token</li>
 <li>Ruby Carolling Dress <strong>~</strong> 3-5</li>
 <li>Ruby Encrusted Dress <strong>~</strong> 00 - 00 </li>
 <li>Ruby Falls Background <strong>~</strong> 2-3</li>
@@ -8590,7 +8590,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Scattered Glitter Foreground <strong>~</strong> 20-25</li>
 <li>Scattered Light Shower <strong>~</strong> 25-30</li>
 <li>Scenic Hike Background <strong>~</strong> 1-2</li>
-<li>Scenic Purple Dusk Background   <strong>~</strong> buyable</li>
+<li>Scenic Purple Dusk Background   <strong>~</strong> Purple Scorchio KQ Token</li>
 <li>Scented Christmas Candles Foreground <strong>~</strong> 1-2</li>
 <li>Scholarly Robe <strong>~</strong> 00 - 00 </li>
 <li>Scholars Lounge Room Background <strong>~</strong> 00 - 00 </li>
@@ -8674,7 +8674,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Series of Tubes Foreground <strong>~</strong> 00 - 00 </li>
 <li>Set Anchor Staff <strong>~</strong> 00 - 00 </li>
 <li>Seven Colours of the Rainbow Background <strong>~</strong> 10</li>
-<li>Sewing Kit Garland   <strong>~</strong> buyable</li>
+<li>Sewing Kit Garland   <strong>~</strong> Plushie Wocky KQ Token</li>
 <li>Sewing Room Background <strong>~</strong> 20-25</li>
 <li>Shaded Garden Path Background <strong>~</strong> 1-2</li>
 <li>Shades of Dread <strong>~</strong> 1-2</li>
@@ -8821,7 +8821,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Shining Star Necklace <strong>~</strong> 00 - 00 </li>
 <li>Shining Star Shoes <strong>~</strong> 00 - 00 </li>
 <li>Shining Star Staff <strong>~</strong> 2-3</li>
-<li>Shining Sun Shield   <strong>~</strong> buyable</li>
+<li>Shining Sun Shield   <strong>~</strong> Orange Lupe KQ Token</li>
 <li>Shining Sun Staff  <strong>~</strong> buyable</li>
 <li>Shining Sun String Lights <strong>~</strong> 00 - 00 </li>
 <li>Shining Tiara Staff <strong>~</strong> 00 - 00 </li>
@@ -9000,7 +9000,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Sloth String Lights <strong>~</strong> 00 - 00 </li>
 <li>Sloths Future Fashion Shirt <strong>~</strong> 00 - 00 </li>
 <li>Slouchy Glittering Sweater <strong>~</strong> 3-5</li>
-<li>Slouchy Spat Boots Untradeable NC found in Elite Boutique <strong>~</strong> 00 - 00 </li>
+<li>Slouchy Spat Boots Untradeable NC found in Elite Boutique <strong>~</strong> NT</li>
 <li>Slumber Celebration Background <strong>~</strong> 00 - 00 </li>
 <li>Slumber Celebration Pyjama Bottoms <strong>~</strong> 00 - 00 </li>
 <li>Slumber Celebration Pyjama Top <strong>~</strong> 00 - 00 </li>
@@ -9019,7 +9019,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Smoky Nights Background <strong>~</strong> 8-12</li>
 <li>Smores Wand <strong>~</strong> 1-2</li>
 <li>Smothered Smores Station <strong>~</strong> 00 - 00 </li>
-<li>Smugglers Cove Background <strong>~</strong> 1</li>
+<li>Smugglers Cove Background <strong>~</strong> 15</li>
 <li>Smugglers Cove New Years Background <strong>~</strong> 00 - 00 </li>
 <li>Snake Charm Bracelet <strong>~</strong> 00 - 00 </li>
 <li>Snapping Clam <strong>~</strong> 00 - 00 </li>
@@ -9087,7 +9087,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Snowflake Wand <strong>~</strong> 00 - 00 </li>
 <li>Snowglobe Garland <strong>~</strong> 00 - 00 </li>
 <li>Snowglobe Staff <strong>~</strong> 00 - 00 </li>
-<li>Snowman and Creepy Meepit Untradeable NC found in Elite Boutique <strong>~</strong> 00 - 00 </li>
+<li>Snowman and Creepy Meepit Untradeable NC found in Elite Boutique <strong>~</strong> NT</li>
 <li>Snowman Christmas Tree <strong>~</strong> 00 - 00 </li>
 <li>Snowman Hoodie <strong>~</strong> 00 - 00 </li>
 <li>Snowman Nesting Dolls <strong>~</strong> 00 - 00 </li>
@@ -9220,7 +9220,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Sparkling Icy Candles Foreground <strong>~</strong> 00 - 00 </li>
 <li>Sparkling Jack-o-Lantern <strong>~</strong> 00 - 00 </li>
 <li>Sparkling Jewel Garland <strong>~</strong> 00 - 00 </li>
-<li>Sparkling Multi-Strand Gothic Necklace Untradeable NC found in Elite Boutique <strong>~</strong> 00 - 00 </li>
+<li>Sparkling Multi-Strand Gothic Necklace Untradeable NC found in Elite Boutique <strong>~</strong> NT</li>
 <li>Sparkling Mushroom Foreground <strong>~</strong> 1-2</li>
 <li>Sparkling Negg Wand <strong>~</strong> 00 - 00 </li>
 <li>Sparkling Negg Wig <strong>~</strong> 00 - 00 </li>
@@ -9269,13 +9269,13 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Sparkly Lip Gloss <strong>~</strong> 00 - 00 </li>
 <li>Sparkly Party Dress <strong>~</strong> 00 - 00 </li>
 <li>Sparkly Purple Tuxedo Top with White Shirt Underneath <strong>~</strong> 00 - 00 </li>
-<li>Sparkly Rainbow Ballet Shoes   <strong>~</strong> buyable</li>
+<li>Sparkly Rainbow Ballet Shoes   <strong>~</strong> Rainbow Chomby KQ Token</li>
 <li>Spatula of Wondrous Cooking <strong>~</strong> 6-7</li>
 <li>Spear of Radiance <strong>~</strong> 1-2</li>
 <li>Specialty Shop Spectacles <strong>~</strong> 00 - 00 </li>
-<li>Speckled Green Bracers   <strong>~</strong> buyable</li>
-<li>Speckled Negg Plushie   <strong>~</strong> buyable</li>
-<li>Speckled Vase Foreground   <strong>~</strong> buyable</li>
+<li>Speckled Green Bracers   <strong>~</strong> Speckled Scorchio KQ Token</li>
+<li>Speckled Negg Plushie   <strong>~</strong> Speckled Acara KQ Token</li>
+<li>Speckled Vase Foreground   <strong>~</strong> Speckled Uni KQ Token</li>
 <li>Spectacular Seashell Carriage <strong>~</strong> 1-2</li>
 <li>Spectral Candles Shower <strong>~</strong> 00 - 00 </li>
 <li>Spectral Chains <strong>~</strong> 1-2</li>
@@ -9309,7 +9309,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Spinning Neopian Globe <strong>~</strong> 00 - 00 </li>
 <li>Spinning Neopian Globe Staff <strong>~</strong> 00 - 00 </li>
 <li>Spinning Nova Lolly <strong>~</strong> 00 - 00 </li>
-<li>Spinning Star Shower   <strong>~</strong> buyable</li>
+<li>Spinning Star Shower   <strong>~</strong> Starry Grundo KQ Token</li>
 <li>Spinning Water Chakram <strong>~</strong> 00 - 00 </li>
 <li>Spiral Galaxy Wings <strong>~</strong> 00 - 00 </li>
 <li>Spiral Staircase Background <strong>~</strong> 2</li>
@@ -9365,11 +9365,11 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Sporty Braided Ponytail <strong>~</strong> 00 - 00 </li>
 <li>Sporty Tennis Dress <strong>~</strong> 00 - 00 </li>
 <li>Sporty Tennis Shirt <strong>~</strong> 00 - 00 </li>
-<li>Spotted Kau Rain Boots   <strong>~</strong> buyable</li>
-<li>Spotted Paper Lantern Garland   <strong>~</strong> buyable</li>
-<li>Spotted Pattern Sunglasses   <strong>~</strong> buyable</li>
+<li>Spotted Kau Rain Boots   <strong>~</strong> Spotted Kau KQ Token</li>
+<li>Spotted Paper Lantern Garland   <strong>~</strong> Spotted Cybunny KQ Token</li>
+<li>Spotted Pattern Sunglasses   <strong>~</strong> Spotted Mynci KQ Token</li>
 <li>Spotted Print Glasses  <strong>~</strong> buyable</li>
-<li>Spotted Wig   <strong>~</strong> buyable</li>
+<li>Spotted Wig   <strong>~</strong> Spotted Aisha KQ Token</li>
 <li>Sprig of Holly Wig <strong>~</strong> 00 - 00 </li>
 <li>Spring Aesthetic Wardrobe Rack <strong>~</strong> 00 - 00 </li>
 <li>Spring Argyle Caplet <strong>~</strong> 00 - 00 </li>
@@ -9536,7 +9536,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Starry Rainbow Garland <strong>~</strong> 2</li>
 <li>Starry Scarf <strong>~</strong> 00 - 00 </li>
 <li>Starry Space Beanie and Blonde Wig <strong>~</strong> 2-3</li>
-<li>Starry Tights and Shoes   <strong>~</strong> buyable</li>
+<li>Starry Tights and Shoes   <strong>~</strong> Starry Elephante KQ Token</li>
 <li>Starry Wreath Wig <strong>~</strong> 00 - 00 </li>
 <li>Stars and Glitter Face Paint <strong>~</strong> 00 - 00 </li>
 <li>Startling Eyestalk Contacts <strong>~</strong> 00 - 00 </li>
@@ -9639,10 +9639,10 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Striped Christmas Side Tree <strong>~</strong> 1-2</li>
 <li>Striped Desert Dress <strong>~</strong> 00 - 00 </li>
 <li>Striped Diner Outfit <strong>~</strong> 00 - 00 </li>
-<li>Striped Floating Lantern Garland   <strong>~</strong> buyable</li>
-<li>Striped Flower Foreground   <strong>~</strong> buyable</li>
+<li>Striped Floating Lantern Garland   <strong>~</strong> Striped Usul KQ Token</li>
+<li>Striped Flower Foreground   <strong>~</strong> Striped Kacheek KQ Token</li>
 <li>Striped Flower Shoes <strong>~</strong> 00 - 00 </li>
-<li>Striped Gloves   <strong>~</strong> buyable</li>
+<li>Striped Gloves   <strong>~</strong> Striped Ixi KQ Token</li>
 <li>Striped Green Shirt  <strong>~</strong> buyable</li>
 <li>Striped Holiday Parasol <strong>~</strong> 00 - 00 </li>
 <li>Striped Holiday Tree Foreground <strong>~</strong> 00 - 00 </li>
@@ -9659,7 +9659,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Striped Suit <strong>~</strong> 00 - 00 </li>
 <li>Striped Summer Dress <strong>~</strong> 00 - 00 </li>
 <li>Striped Tshirt <strong>~</strong> 00 - 00 </li>
-<li>Striped Wig   <strong>~</strong> buyable</li>
+<li>Striped Wig   <strong>~</strong> Striped Xweetok KQ Token</li>
 <li>Stroll on the Water Background <strong>~</strong> 3-5</li>
 <li>Strung V Neck Top <strong>~</strong> 1-2</li>
 <li>Stuck Underground Background <strong>~</strong> 00 - 00 </li>
@@ -9879,7 +9879,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Swingin Style Wig <strong>~</strong> 00 - 00 </li>
 <li>Swinging Chia Gnome <strong>~</strong> 00 - 00 </li>
 <li>Swinging in a Nest <strong>~</strong> 00 - 00 </li>
-<li>Swinging on a Cloud   <strong>~</strong> buyable</li>
+<li>Swinging on a Cloud   <strong>~</strong> Cloud Uni KQ Token</li>
 <li>Swirl of Magic <strong>~</strong> 15</li>
 <li>Swirl of Power Effect <strong>~</strong> 20</li>
 <li>Swirling Hearts Head Bonk <strong>~</strong> 00 - 00 </li>
@@ -10157,7 +10157,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Tropical Flower Arbor <strong>~</strong> 00 - 00 </li>
 <li>Tropical Flower Dress <strong>~</strong> 3-4</li>
 <li>Tropical Flower Facepaint <strong>~</strong> 00 - 00 </li>
-<li>Tropical Flower Head Wreath   <strong>~</strong> buyable</li>
+<li>Tropical Flower Head Wreath   <strong>~</strong> Island Jubjub KQ Token</li>
 <li>Tropical Flower Mask <strong>~</strong> 00 - 00 </li>
 <li>Tropical Flower Shield <strong>~</strong> 00 - 00 </li>
 <li>Tropical Flowers Foreground <strong>~</strong> 1-2</li>
@@ -10201,7 +10201,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Twirling Umbrella Garland <strong>~</strong> 00 - 00 </li>
 <li>Twirly Dancing Skirt <strong>~</strong> 00 - 00 </li>
 <li>Twisted Holiday Horns <strong>~</strong> 00 - 00 </li>
-<li>Twisted Horns Untradeable NC found in Elite Boutique <strong>~</strong> 00 - 00 </li>
+<li>Twisted Horns Untradeable NC found in Elite Boutique <strong>~</strong> NT</li>
 <li>Twisted Roses Background <strong>~</strong> 00 - 00 </li>
 <li>Tycoon Vault Background <strong>~</strong> 00 - 00 </li>
 <li>Typing Terror Background <strong>~</strong> 00 - 00 </li>
@@ -10265,7 +10265,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Ultra Snazzy Trousers <strong>~</strong> 00 - 00 </li>
 <li>Ultra White Fur Shrug <strong>~</strong> 00 - 00 </li>
 <li>Umbrella Lights Garland <strong>~</strong> 00 - 00 </li>
-<li>Umbrella Wreath Wig   <strong>~</strong> buyable</li>
+<li>Umbrella Wreath Wig   <strong>~</strong> Island Kacheek KQ Token</li>
 <li>Undead Contacts and Face Paint <strong>~</strong> 2-3</li>
 <li>Undead Elegance Dress <strong>~</strong> 00 - 00 </li>
 <li>Undead Princess Dress <strong>~</strong> 00 - 00 </li>
@@ -10708,7 +10708,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Wind Up Aristotle <strong>~</strong> 00 - 00 </li>
 <li>Wind Up Ferocious Negg <strong>~</strong> 00 - 00 </li>
 <li>Wind Up Gift Box <strong>~</strong> 00 - 00 </li>
-<li>Wind Up Number Six Untradeable NC found in Elite Boutique <strong>~</strong> 00 - 00 </li>
+<li>Wind Up Number Six Untradeable NC found in Elite Boutique <strong>~</strong> NT</li>
 <li>Wind Up Potgatkerchi <strong>~</strong> 00 - 00 </li>
 <li>Wind-Up Mutant Petpets <strong>~</strong> 00 - 00 </li>
 <li>Winding Vine Belt <strong>~</strong> 00 - 00 </li>
@@ -10903,7 +10903,7 @@ RR/New Item trade data: <a href="/~NCMallReports">Coming soon</a><br>Shuffle tra
 <li>Yellow and Pink Decorative Fence Foreground <strong>~</strong> 00 - 00 </li>
 <li>Yellow and Pink Fountain Trinket <strong>~</strong> 00 - 00 </li>
 <li>Yellow and Pink Negg Garland <strong>~</strong> 00 - 00 </li>
-<li>Yellow Bench with Flowers   <strong>~</strong> buyable</li>
+<li>Yellow Bench with Flowers   <strong>~</strong> Yellow Kacheek KQ Token</li>
 <li>Yellow Flower Branches Garland <strong>~</strong> 1-2</li>
 <li>Yellow Island Dress <strong>~</strong> 00 - 00 </li>
 <li>Yellow Kougra Eye Glasses <strong>~</strong> 00 - 00 </li>
