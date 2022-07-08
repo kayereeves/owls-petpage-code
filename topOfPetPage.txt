@@ -258,9 +258,7 @@ You can write your notes here, or otherwise just close the tab!!
 <a href="/neomessages.phtml?type=send&recipient=mandakitty12"> Taunted</a>,
 <a href="/neomessages.phtml?type=send&recipient=dinahaby"> Christina K</a>,
 <a href="/neomessages.phtml?type=send&recipient=ruxisqueen"> Brenda</a>,
-<a href="/neomessages.phtml?type=send&recipient=bl222"> Wolfie</a>,
-<a href="/neomessages.phtml?type=send&recipient=syndiee"> Eva</a>
- and <a href="/neomessages.phtml?type=send&recipient=destanyyyyy">Destany</a>
+and <a href="/neomessages.phtml?type=send&recipient=syndiee"> Eva</a>
 
 <br><br>
 Interested in joining the Owls team? Neomail or contact Amelia!<br><br>More about our team:<br><a href="/~OwlsFAQ"><img src="http://i.imgur.com/VEAmFvR.gif"></a><br><br>
